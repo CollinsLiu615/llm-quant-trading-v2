@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中芯国际Q3净利同比降34%，产能利用率跌破七成",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "美国扩大对华芯片设备出口限制，北方华创或损失3成订单",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "存储芯片价格暴跌20%，兆易创新存货减值风险骤增",
+    "magnitude": 0.05,
+    "decay": 0.8,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "韦尔股份Q3毛利率降至22%，CIS价格战拖累盈利预期",
+    "magnitude": 0.035,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "台积电下调全年营收指引，A股半导体设备板块承压",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家大基金减持长电科技2%股份，套现超8亿元",
+    "magnitude": 0.025,
+    "decay": 0.7,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "澜起科技遭英特尔清仓式减持，机构下调目标价15%",
+    "magnitude": 0.03,
+    "decay": 0.6,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "全球半导体销售额连续5月环比下滑，中微公司新增订单锐减",
+    "magnitude": 0.055,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

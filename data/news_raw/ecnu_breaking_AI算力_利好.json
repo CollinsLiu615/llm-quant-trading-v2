@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中际旭创斩获英伟达800G新订单，Q3出货量上调30%",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部印发算力基建指南，2025年智算中心规模翻倍",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "寒武纪思元590量产交付，性能对标A100获大客户验证",
+    "magnitude": 0.06,
+    "decay": 0.8,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上海出台算力券补贴，企业采购智算服务最高补30%",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "浪潮信息与阿里云共建液冷智算集群，PUE降至1.1",
+    "magnitude": 0.02,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "字节跳动自研AI芯片流片成功，算力成本或降四成",
+    "magnitude": 0.07,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "英伟达H20特供版出货放量，产业链Q2业绩超预期",
+    "magnitude": 0.03,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "breaking",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家数据局启动东数西算二期，新增10个枢纽节点",
+    "magnitude": 0.04,
+    "decay": 0.92,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

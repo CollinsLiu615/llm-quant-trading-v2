@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "国常会部署促消费新政，家电汽车以旧换新补贴再加码",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "贵州茅台宣布提高出厂价10%，白酒板块盈利预期上修",
+    "magnitude": 0.03,
+    "decay": 0.7,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "海南离岛免税单日销售额破3亿，中国中免单季净利预增40%",
+    "magnitude": 0.025,
+    "decay": 0.6,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五一档预售票房破5亿创纪录，万达电影及院线股迎催化",
+    "magnitude": 0.02,
+    "decay": 0.8,
+    "duration": 8,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "发改委发放新一批消费券，重点支持文旅餐饮，美团、携程受益",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "安踏体育Q1流水增15%超预期，国潮运动龙头获机构上调评级",
+    "magnitude": 0.028,
+    "decay": 0.65,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "新乳业并购区域乳企落地，低温奶市占率升至行业前三",
+    "magnitude": 0.018,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "拼多多Temu海外单量翻倍，跨境电商政策利好兑现，营收指引上调",
+    "magnitude": 0.04,
+    "decay": 0.55,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

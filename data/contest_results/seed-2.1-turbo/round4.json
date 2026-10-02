@@ -1,0 +1,118 @@
+{
+  "train_metrics": [
+    {
+      "total_return": -0.11229898834266516,
+      "annual_return": -0.11272017605216123,
+      "volatility": 0.1758544394175066,
+      "sharpe": -0.5923930792597765,
+      "max_drawdown": -0.1967622486202942,
+      "calmar": -0.5728750146054957,
+      "win_rate": 0.50199203187251,
+      "n_trades": 239.0,
+      "turnover": 227190552.6165198,
+      "parse_failures": 0.0,
+      "api_calls": 251.0,
+      "seed": 407,
+      "n_errors": 0,
+      "n_calls": 251,
+      "last_error": ""
+    },
+    {
+      "total_return": -0.25900729837255065,
+      "annual_return": -0.2598917235636753,
+      "volatility": 0.24563096421951955,
+      "sharpe": -1.1013794746335872,
+      "max_drawdown": -0.25959662090996244,
+      "calmar": -1.0011367738635366,
+      "win_rate": 0.46215139442231074,
+      "n_trades": 228.0,
+      "turnover": 298766597.2311719,
+      "parse_failures": 0.0,
+      "api_calls": 251.0,
+      "seed": 499,
+      "n_errors": 0,
+      "n_calls": 251,
+      "last_error": ""
+    },
+    {
+      "total_return": 0.17829196961116267,
+      "annual_return": 0.17906241078555807,
+      "volatility": 0.18938256825532965,
+      "sharpe": 0.9638351419749696,
+      "max_drawdown": -0.11256959699811406,
+      "calmar": 1.590681814278486,
+      "win_rate": 0.44621513944223107,
+      "n_trades": 193.0,
+      "turnover": 129655149.24583209,
+      "parse_failures": 0.0,
+      "api_calls": 251.0,
+      "seed": 527,
+      "n_errors": 0,
+      "n_calls": 251,
+      "last_error": ""
+    },
+    {
+      "total_return": -0.038050523969475725,
+      "annual_return": -0.03819918675236322,
+      "volatility": 0.2228031000666417,
+      "sharpe": -0.0638021885821852,
+      "max_drawdown": -0.22717896821397437,
+      "calmar": -0.1681457885502162,
+      "win_rate": 0.4940239043824701,
+      "n_trades": 231.0,
+      "turnover": 251059593.31368664,
+      "parse_failures": 0.0,
+      "api_calls": 251.0,
+      "seed": 1020,
+      "n_errors": 0,
+      "n_calls": 251,
+      "last_error": ""
+    },
+    {
+      "total_return": -0.21487285157595937,
+      "annual_return": -0.2156291794630304,
+      "volatility": 0.18163776667918208,
+      "sharpe": -1.2451201454478087,
+      "max_drawdown": -0.2250712963152114,
+      "calmar": -0.9580483295437311,
+      "win_rate": 0.49800796812749004,
+      "n_trades": 237.0,
+      "turnover": 275447306.7258435,
+      "parse_failures": 0.0,
+      "api_calls": 251.0,
+      "seed": 1196,
+      "n_errors": 0,
+      "n_calls": 251,
+      "last_error": ""
+    },
+    {
+      "total_return": -0.16229929745144078,
+      "annual_return": -0.1628901332266901,
+      "volatility": 0.22148841649911807,
+      "sharpe": -0.692559890710798,
+      "max_drawdown": -0.35950755328624134,
+      "calmar": -0.4530923807795391,
+      "win_rate": 0.44621513944223107,
+      "n_trades": 235.0,
+      "turnover": 292694825.22772825,
+      "parse_failures": 0.0,
+      "api_calls": 251.0,
+      "seed": 1437,
+      "n_errors": 0,
+      "n_calls": 251,
+      "last_error": ""
+    }
+  ],
+  "history": [
+    {
+      "attempt": 0,
+      "status": "safety_fail",
+      "err": "代码行数 241 超过上限 150"
+    },
+    {
+      "attempt": 1,
+      "status": "ok"
+    }
+  ],
+  "round": 4
+}

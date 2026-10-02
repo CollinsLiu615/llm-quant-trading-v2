@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "茅台批价跌破2100元，黄牛集体抛售致渠道库存积压",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "海天味业Q1酱油销量同比降8%，提价难阻经销商去库存",
+    "magnitude": 0.035,
+    "decay": 0.75,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五部门严打直播带货虚假促销，李佳琦零食专场退货率飙至60%",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "双汇发展冷鲜肉出厂价下调5%，猪价反弹不及预期屠宰量腰斩",
+    "magnitude": 0.03,
+    "decay": 0.7,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "预制菜新国标禁用‘零添加’标签，安井食品多款产品面临下架整改",
+    "magnitude": 0.055,
+    "decay": 0.8,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "金龙鱼食用油经销商窜货遭处罚，华东区库存周转天数升至45天",
+    "magnitude": 0.025,
+    "decay": 0.65,
+    "duration": 5,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "美团到店餐饮GMV增速骤降至3%，高佣金逼走中小商户供给缩量",
+    "magnitude": 0.07,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "蒙牛特仑苏终端动销放缓，经销商压货资金链断裂引发退换货潮",
+    "magnitude": 0.04,
+    "decay": 0.72,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

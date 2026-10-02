@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "恒瑞医药创新药SHR-1701获批临床，剑指百亿肺癌市场，机构看好业绩弹性",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家药监局加速审批，罕见病用药纳入优先审评，贝达药业等3家药企直接受益",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "药明康德Q1在手订单激增40%，CXO景气度回升，海外大单落地超预期",
+    "magnitude": 0.05,
+    "decay": 0.8,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "百济神州PD-1获欧盟批准上市，海外放量在即，单季收入有望增厚2亿美元",
+    "magnitude": 0.06,
+    "decay": 0.75,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国产mRNA疫苗获突破性疗法认定，沃森生物与艾博生物联合开发，商业化提速",
+    "magnitude": 0.04,
+    "decay": 0.7,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "医保局发布创新药支付新规，允许单列预算不占集采额度，君实生物、信达生物迎利好",
+    "magnitude": 0.055,
+    "decay": 0.95,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华海药业沙坦类原料药获FDA解禁，恢复对美供货，年新增利润或超1.5亿元",
+    "magnitude": 0.03,
+    "decay": 0.6,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "医疗器械集采规则优化，高端影像设备国产化率提升，联影医疗Q2新增订单同比增80%",
+    "magnitude": 0.025,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

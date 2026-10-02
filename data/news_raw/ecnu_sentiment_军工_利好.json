@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中航沈飞获空军大额订单，合同总价超百亿验证景气度",
+    "magnitude": 0.045,
+    "decay": 0.92,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国睿科技中标相控阵雷达大单，军用电子板块集体走强",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "军工央企三年改革收官，航天科技集团资产证券化率突破75%",
+    "magnitude": 0.025,
+    "decay": 0.8,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "航发动力上半年交付同比增30%，发动机产业链景气度超预期",
+    "magnitude": 0.055,
+    "decay": 0.95,
+    "duration": 30,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国防预算草案公布：2024年军费增长7.2%，军工板块迎催化",
+    "magnitude": 0.04,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中船防务获LNG船+军辅船双订单，船舶军工盈利拐点确立",
+    "magnitude": 0.03,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "光威复材签订碳纤维年度框架协议，预付款比例提升至50%",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "北斗星通获高精度定位芯片大额采购，军民融合放量在即",
+    "magnitude": 0.018,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

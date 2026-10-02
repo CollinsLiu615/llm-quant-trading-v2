@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "医保局再推药品比价系统，恒瑞医药核心品种或面临降价压力",
+    "magnitude": 0.045,
+    "decay": 0.82,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家药监局新规收紧创新药附条件批准，百济神州两款在研管线上市或延期",
+    "magnitude": 0.065,
+    "decay": 0.75,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中成药集采扩围至42个品种，以岭药业连花清瘟系列或降价超30%",
+    "magnitude": 0.055,
+    "decay": 0.88,
+    "duration": 22,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "卫健委发文严控辅助用药目录，复星医药右旋糖酐铁注射液遭重点监控",
+    "magnitude": 0.038,
+    "decay": 0.8,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部查税风暴波及医药CSO，上海医药38家推广服务商被曝虚开发票",
+    "magnitude": 0.072,
+    "decay": 0.7,
+    "duration": 28,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "第五批耗材集采锁定骨科脊柱，大博医疗核心产品出厂价或腰斩",
+    "magnitude": 0.06,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "生物类似药集采细则落地，复宏汉霖曲妥珠单抗市场格局或遭重塑",
+    "magnitude": 0.042,
+    "decay": 0.78,
+    "duration": 16,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "医保飞检扩围至民营医院，爱尔眼科白内障项目违规收费被重罚",
+    "magnitude": 0.05,
+    "decay": 0.9,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

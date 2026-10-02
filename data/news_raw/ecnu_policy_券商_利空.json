@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "证监会拟收紧券商自营权益类风险资本计提比例，影响广发、国泰君安",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中证协新规：券商跟投科创板项目锁定期延至36个月，中信建投承压",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行窗口指导：券商两融业务杠杆上限下调至1.5倍，中信证券、华泰证券受影响",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 30,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国务院金融委：严查券商通道业务违规，东方证券、兴业证券收到警示函",
+    "magnitude": 0.05,
+    "decay": 0.75,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "证监会就《券商场外衍生品管理办法》征求意见，限制散户参与，中金公司承压",
+    "magnitude": 0.04,
+    "decay": 0.82,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "交易所拟提高券商程序化交易报备门槛，量化自营业务受冲击，招商证券、银河证券",
+    "magnitude": 0.055,
+    "decay": 0.88,
+    "duration": 22,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部新规：券商代销金融产品风险准备金计提比例翻倍，国信证券、申万宏源利润承压",
+    "magnitude": 0.03,
+    "decay": 0.7,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "监管层要求券商压缩股票质押业务规模，海通证券、光大证券存量风险暴露",
+    "magnitude": 0.07,
+    "decay": 0.92,
+    "duration": 28,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

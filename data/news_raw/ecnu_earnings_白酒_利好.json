@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "贵州茅台Q1净利增18.7%超预期，直销占比再创新高",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五粮液上调普五出厂价50元，渠道库存降至历史低位",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "泸州老窖国窖1573批价回升至980元，动销同比增25%",
+    "magnitude": 0.028,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "山西汾酒Q1营收破180亿，省外占比首超60%创纪录",
+    "magnitude": 0.032,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "洋河股份拟每股派息4.2元，股息率升至3.8%创上市新高",
+    "magnitude": 0.022,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "今世缘Q1净利润预增30%，V系放量带动毛利率提升2.1pct",
+    "magnitude": 0.026,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "古井贡酒年份原浆系列提价8%落地，合同负债环比增40%",
+    "magnitude": 0.03,
+    "decay": 0.86,
+    "duration": 16,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "白酒消费税改革试点利好名酒，茅台五粮液估值修复可期",
+    "magnitude": 0.04,
+    "decay": 0.92,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "万科A 3月合同销售额同比降42%，机构下调目标价至8元",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "保利发展融资余额单日骤降3.2亿，北向资金连续5日净卖出",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "融创中国披露境外债重组进展缓慢，美元债价格跌至面值55%",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "5月百强房企销售环比再降18%，碧桂园单月新开工面积同比腰斩",
+    "magnitude": 0.035,
+    "decay": 0.7,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华夏幸福逾期债务本息合计954亿，公告称将停牌筹划债务重组",
+    "magnitude": 0.055,
+    "decay": 0.8,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行数据显示居民中长期贷款4月减少1156亿，地产需求端持续萎靡",
+    "magnitude": 0.04,
+    "decay": 0.65,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "金地集团遭遇穆迪下调评级至Ba3，旗下多只境内债触发交叉违约条款",
+    "magnitude": 0.07,
+    "decay": 0.95,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "深圳二手房指导价取消后成交价仍跌3.5%，招商蛇口存货减值计提超预期",
+    "magnitude": 0.03,
+    "decay": 0.6,
+    "duration": 9,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

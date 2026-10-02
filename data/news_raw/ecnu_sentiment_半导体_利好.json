@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中芯国际28nm产能利用率超95%，Q3指引上调10%",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "大基金三期首轮注资300亿落地，重点投向设备材料环节",
+    "magnitude": 0.06,
+    "decay": 0.85,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "北方华创中标12吋刻蚀机批量订单，单季合同额创新高",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上海微电子28nm光刻机通过产线验证，国产化率提至70%",
+    "magnitude": 0.08,
+    "decay": 0.75,
+    "duration": 30,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "长电科技获英伟达先进封装大单，Chiplet产能扩至5万片/月",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国务院减半征收IC企业所得税，预计板块年增利超80亿",
+    "magnitude": 0.055,
+    "decay": 0.82,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "韦尔股份CIS新品打入三星供应链，三季度出货量预增60%",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "沪硅产业12英寸硅片月产出破40万片，国产化率突破30%",
+    "magnitude": 0.03,
+    "decay": 0.78,
+    "duration": 14,
+    "kind": "sentiment",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

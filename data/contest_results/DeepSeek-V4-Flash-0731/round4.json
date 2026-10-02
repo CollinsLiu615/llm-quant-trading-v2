@@ -1,0 +1,118 @@
+{
+  "train_metrics": [
+    {
+      "total_return": -0.12528740894833612,
+      "annual_return": -0.12575377442871183,
+      "volatility": 0.1419289639252879,
+      "sharpe": -0.8756041585312108,
+      "max_drawdown": -0.20984184021640181,
+      "calmar": -0.5992788392392423,
+      "win_rate": 0.4701195219123506,
+      "n_trades": 248.0,
+      "turnover": 745665083.2303021,
+      "parse_failures": 1.0,
+      "api_calls": 251.0,
+      "seed": 407,
+      "n_errors": 1,
+      "n_calls": 251,
+      "last_error": "ValueError: operands could not be broadcast together with shapes (5300,) (5266,) "
+    },
+    {
+      "total_return": -0.2493209347306754,
+      "annual_return": -0.2501781243803839,
+      "volatility": 0.1356273658819313,
+      "sharpe": -2.054081841248481,
+      "max_drawdown": -0.2611151998713009,
+      "calmar": -0.958113983803671,
+      "win_rate": 0.4342629482071713,
+      "n_trades": 247.0,
+      "turnover": 594390182.1474776,
+      "parse_failures": 2.0,
+      "api_calls": 251.0,
+      "seed": 499,
+      "n_errors": 2,
+      "n_calls": 251,
+      "last_error": "ValueError: operands could not be broadcast together with shapes (5300,) (5297,) "
+    },
+    {
+      "total_return": 0.007720910512609702,
+      "annual_return": 0.007751790030845029,
+      "volatility": 0.1341239558579484,
+      "sharpe": 0.12413883997060356,
+      "max_drawdown": -0.08698656667286164,
+      "calmar": 0.08911479470155313,
+      "win_rate": 0.450199203187251,
+      "n_trades": 246.0,
+      "turnover": 874539865.7479522,
+      "parse_failures": 2.0,
+      "api_calls": 251.0,
+      "seed": 527,
+      "n_errors": 2,
+      "n_calls": 251,
+      "last_error": "ValueError: operands could not be broadcast together with shapes (5300,) (5298,) "
+    },
+    {
+      "total_return": -0.15767923666555883,
+      "annual_return": -0.15825488653438768,
+      "volatility": 0.12440926290125502,
+      "sharpe": -1.3222277787702321,
+      "max_drawdown": -0.22034659649908706,
+      "calmar": -0.7182088992921811,
+      "win_rate": 0.47410358565737054,
+      "n_trades": 246.0,
+      "turnover": 848102840.3856096,
+      "parse_failures": 2.0,
+      "api_calls": 251.0,
+      "seed": 1020,
+      "n_errors": 2,
+      "n_calls": 251,
+      "last_error": "ValueError: operands could not be broadcast together with shapes (5300,) (5299,) "
+    },
+    {
+      "total_return": -0.2515295645700827,
+      "annual_return": -0.2523930084973216,
+      "volatility": 0.1094271606338351,
+      "sharpe": -2.602063283019221,
+      "max_drawdown": -0.255181272699753,
+      "calmar": -0.9890733980086694,
+      "win_rate": 0.41434262948207173,
+      "n_trades": 247.0,
+      "turnover": 601614065.7938955,
+      "parse_failures": 2.0,
+      "api_calls": 251.0,
+      "seed": 1196,
+      "n_errors": 2,
+      "n_calls": 251,
+      "last_error": "ValueError: operands could not be broadcast together with shapes (5300,) (5299,) "
+    },
+    {
+      "total_return": -0.2378482403276183,
+      "annual_return": -0.23867252622326407,
+      "volatility": 0.11690785024320789,
+      "sharpe": -2.2729729154445573,
+      "max_drawdown": -0.27573778001947086,
+      "calmar": -0.8655778914532877,
+      "win_rate": 0.4262948207171315,
+      "n_trades": 246.0,
+      "turnover": 556140141.0110774,
+      "parse_failures": 2.0,
+      "api_calls": 251.0,
+      "seed": 1437,
+      "n_errors": 2,
+      "n_calls": 251,
+      "last_error": "ValueError: operands could not be broadcast together with shapes (5300,) (5296,) "
+    }
+  ],
+  "history": [
+    {
+      "attempt": 0,
+      "status": "safety_fail",
+      "err": "代码行数 151 超过上限 150"
+    },
+    {
+      "attempt": 1,
+      "status": "ok"
+    }
+  ],
+  "round": 4
+}

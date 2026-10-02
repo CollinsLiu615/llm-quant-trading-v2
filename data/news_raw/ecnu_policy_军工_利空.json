@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "军品增值税新政落地，中航沈飞等主机厂利润空间遭压缩",
+    "magnitude": 0.03,
+    "decay": 0.7,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国防部明确严控军工配套产品价格虚高，中直股份预收款趋降",
+    "magnitude": 0.025,
+    "decay": 0.6,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "装备采购条例修订：军工央企应收账款账期拉长，内蒙一机承压",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "多款军品降价目录发布，振华科技部分元器件毛利率料下滑",
+    "magnitude": 0.04,
+    "decay": 0.65,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "军队审计署严查物资采购，航天电子部分合同结算进度放缓",
+    "magnitude": 0.015,
+    "decay": 0.8,
+    "duration": 6,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国资委收紧军工央企投资审批，中国船舶新产能项目延期",
+    "magnitude": 0.035,
+    "decay": 0.55,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "新一轮军品定价机制改革试点，航发动力批产型号利润承压",
+    "magnitude": 0.028,
+    "decay": 0.7,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "军工科研院所改制补税政策落地，国睿科技一次性成本增加",
+    "magnitude": 0.022,
+    "decay": 0.9,
+    "duration": 5,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

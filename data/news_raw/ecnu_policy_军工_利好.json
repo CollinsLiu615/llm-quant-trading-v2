@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中航沈飞获空军大额订单，新型歼击机量产提速利好业绩释放",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国务院印发军工行业自主可控行动方案，核心元器件国产化率目标提至90%",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "航发动力中标百亿级航空发动机维修保障合同，未来三年现金流显著增厚",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国防科工局新增军民融合专项基金300亿元，重点投向商业航天与卫星互联网",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中国船舶集团获LNG船+军贸船双重大单，订单总额超200亿元创历史新高",
+    "magnitude": 0.04,
+    "decay": 0.82,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国资委推动军工央企股权激励扩围，中航光电等五家试点单位名单落地",
+    "magnitude": 0.03,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部下达2025年国防装备升级专项预算，同比增长18%达5200亿元",
+    "magnitude": 0.07,
+    "decay": 0.92,
+    "duration": 30,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家发改委核准新一代低轨卫星互联网星座项目，银河航天等民企获准参建",
+    "magnitude": 0.055,
+    "decay": 0.86,
+    "duration": 22,
+    "kind": "policy",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

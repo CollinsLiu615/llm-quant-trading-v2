@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中信建投Q1净利润同比增68%，自营业务收益率领跑头部券商",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国泰君安获证监会批准开展跨境财富管理试点，国际化再下一城",
+    "magnitude": 0.028,
+    "decay": 0.78,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中金公司代销公募基金保有规模突破5000亿，财富管理转型提速",
+    "magnitude": 0.022,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "证监会优化两融担保品折算率，华泰证券等头部券商净资本释放超百亿",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "东方财富Q1股基交易额市占率升至6.8%，互联网券商优势持续扩大",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "科创板做市商扩容，招商证券、国信证券新增10只做市标的增厚业绩",
+    "magnitude": 0.018,
+    "decay": 0.7,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "沪深港通ETF标的扩容至300只，广发证券、申万宏源经纪业务迎增量",
+    "magnitude": 0.026,
+    "decay": 0.8,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中证协发布券商并表监管试点扩围，银河证券、浙商证券获资本运用松绑",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

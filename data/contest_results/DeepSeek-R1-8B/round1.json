@@ -1,0 +1,112 @@
+{
+  "train_metrics": [
+    {
+      "total_return": 0.0,
+      "annual_return": 0.0,
+      "volatility": 0.0,
+      "sharpe": 0.0,
+      "max_drawdown": 0.0,
+      "calmar": 0.0,
+      "win_rate": 0.0,
+      "n_trades": 0.0,
+      "turnover": 0.0,
+      "parse_failures": 251.0,
+      "api_calls": 251.0,
+      "seed": 407,
+      "n_errors": 251,
+      "n_calls": 251,
+      "last_error": "ValueError: setting an array element with a sequence."
+    },
+    {
+      "total_return": 0.0,
+      "annual_return": 0.0,
+      "volatility": 0.0,
+      "sharpe": 0.0,
+      "max_drawdown": 0.0,
+      "calmar": 0.0,
+      "win_rate": 0.0,
+      "n_trades": 0.0,
+      "turnover": 0.0,
+      "parse_failures": 251.0,
+      "api_calls": 251.0,
+      "seed": 499,
+      "n_errors": 251,
+      "n_calls": 251,
+      "last_error": "ValueError: setting an array element with a sequence."
+    },
+    {
+      "total_return": 0.0,
+      "annual_return": 0.0,
+      "volatility": 0.0,
+      "sharpe": 0.0,
+      "max_drawdown": 0.0,
+      "calmar": 0.0,
+      "win_rate": 0.0,
+      "n_trades": 0.0,
+      "turnover": 0.0,
+      "parse_failures": 251.0,
+      "api_calls": 251.0,
+      "seed": 527,
+      "n_errors": 251,
+      "n_calls": 251,
+      "last_error": "ValueError: setting an array element with a sequence."
+    },
+    {
+      "total_return": 0.0,
+      "annual_return": 0.0,
+      "volatility": 0.0,
+      "sharpe": 0.0,
+      "max_drawdown": 0.0,
+      "calmar": 0.0,
+      "win_rate": 0.0,
+      "n_trades": 0.0,
+      "turnover": 0.0,
+      "parse_failures": 251.0,
+      "api_calls": 251.0,
+      "seed": 1020,
+      "n_errors": 251,
+      "n_calls": 251,
+      "last_error": "ValueError: setting an array element with a sequence."
+    },
+    {
+      "total_return": 0.0,
+      "annual_return": 0.0,
+      "volatility": 0.0,
+      "sharpe": 0.0,
+      "max_drawdown": 0.0,
+      "calmar": 0.0,
+      "win_rate": 0.0,
+      "n_trades": 0.0,
+      "turnover": 0.0,
+      "parse_failures": 251.0,
+      "api_calls": 251.0,
+      "seed": 1196,
+      "n_errors": 251,
+      "n_calls": 251,
+      "last_error": "ValueError: setting an array element with a sequence."
+    },
+    {
+      "total_return": 0.0,
+      "annual_return": 0.0,
+      "volatility": 0.0,
+      "sharpe": 0.0,
+      "max_drawdown": 0.0,
+      "calmar": 0.0,
+      "win_rate": 0.0,
+      "n_trades": 0.0,
+      "turnover": 0.0,
+      "parse_failures": 251.0,
+      "api_calls": 251.0,
+      "seed": 1437,
+      "n_errors": 251,
+      "n_calls": 251,
+      "last_error": "ValueError: setting an array element with a sequence."
+    }
+  ],
+  "history": [
+    {
+      "status": "cached"
+    }
+  ],
+  "round": 1
+}

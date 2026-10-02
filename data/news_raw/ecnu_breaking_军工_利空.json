@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中航沈飞Q3净利同比降18%，军品交付节奏放缓超预期",
+    "magnitude": 0.045,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "军贸出口审批收紧，中航无人机海外订单交付延期",
+    "magnitude": 0.035,
+    "decay": 0.7,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "航发动力计提存货减值2.3亿，叶片良率问题拖累毛利",
+    "magnitude": 0.028,
+    "decay": 0.6,
+    "duration": 9,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国防部新规强化成本管控，军工电子元器件集采压价15%",
+    "magnitude": 0.055,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "航天电子中标项目流标，低轨卫星订单不及预期",
+    "magnitude": 0.022,
+    "decay": 0.5,
+    "duration": 7,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中船防务军船改装费回款周期拉长，应收账款坏账风险上升",
+    "magnitude": 0.033,
+    "decay": 0.75,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国产大飞机C919军转民项目暂停，中航西飞关联订单取消",
+    "magnitude": 0.065,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "军工科研院所改制提速，资产注入预期降温引发估值回调",
+    "magnitude": 0.04,
+    "decay": 0.65,
+    "duration": 11,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

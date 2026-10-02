@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "贵州茅台宣布特别分红240亿，股东回报率提升催化估值修复",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五粮液核心产品批价上调5%，高端白酒景气度拐点确认",
+    "magnitude": 0.045,
+    "decay": 0.75,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "泸州老窖国窖1573停货挺价，渠道库存降至历史低位",
+    "magnitude": 0.028,
+    "decay": 0.7,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "山西汾酒中报预增40%超预期，全国化扩张提速打开成长空间",
+    "magnitude": 0.05,
+    "decay": 0.85,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "商务部将发放消费券促餐饮回暖，白酒宴席场景需求迎强刺激",
+    "magnitude": 0.032,
+    "decay": 0.6,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "贵州茅台获北向资金单日净买入18亿，外资回流核心资产信号明确",
+    "magnitude": 0.022,
+    "decay": 0.5,
+    "duration": 8,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "白酒行业618电商销售同比增35%，次高端龙头古井贡酒领跑",
+    "magnitude": 0.026,
+    "decay": 0.65,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "洋河股份推出股权激励计划绑定核心团队，业绩考核目标锚定高增长",
+    "magnitude": 0.018,
+    "decay": 0.55,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

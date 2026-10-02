@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中信证券Q1自营亏损超30亿，计提减值致净利同比降68%",
+    "magnitude": 0.08,
+    "decay": 0.8,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国泰君安因场外期权违规被罚没4.2亿，证监会暂停其衍生品业务资格6个月",
+    "magnitude": 0.065,
+    "decay": 0.75,
+    "duration": 30,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中金公司承销保荐收入腰斩，科创板跟投浮亏扩大至19亿",
+    "magnitude": 0.05,
+    "decay": 0.7,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华泰证券两融业务踩雷，质押违约金额超45亿，坏账计提激增300%",
+    "magnitude": 0.055,
+    "decay": 0.85,
+    "duration": 22,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "证监会新规收紧券商杠杆上限，头部券商ROE预计下滑1.5个百分点",
+    "magnitude": 0.04,
+    "decay": 0.6,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "招商证券投行项目连环暴雷，IPO撤单率高达40%，合规风险准备金计提翻倍",
+    "magnitude": 0.045,
+    "decay": 0.65,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "东方财富证券代销基金规模骤降38%，权益类产品销售遇冷拖累业绩",
+    "magnitude": 0.035,
+    "decay": 0.55,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "广发证券自营盘重仓新能源遭重挫，单季公允价值变动损失逾12亿",
+    "magnitude": 0.03,
+    "decay": 0.5,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

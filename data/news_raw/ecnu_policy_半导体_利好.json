@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "国常会定调半导体设备攻关，中微公司获20亿研发补贴",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "大基金三期首投落地，投向长江存储3D NAND扩产项目",
+    "magnitude": 0.06,
+    "decay": 0.85,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上海临港新片区发布芯片流片补贴细则，单企最高5000万",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部扩大成熟制程免税清单，华虹半导体28nm产线受益",
+    "magnitude": 0.03,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国资委要求央企加快EDA国产替代，华大九天获央企订单",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "北京中关村设立50亿集成电路并购基金，重点支持北方华创",
+    "magnitude": 0.04,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部等三部门明确芯片企业所得税减免延长至2030年",
+    "magnitude": 0.055,
+    "decay": 0.93,
+    "duration": 30,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "深圳出台半导体材料专项政策，雅克科技获首期扶持资金",
+    "magnitude": 0.025,
+    "decay": 0.7,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

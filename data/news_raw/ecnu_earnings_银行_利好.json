@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "央行降准50bp释放万亿流动性，银行负债成本改善超预期",
+    "magnitude": 0.045,
+    "decay": 0.92,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "招商银行Q3净息差环比企稳，财富管理收入同比增18%",
+    "magnitude": 0.028,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "六大行获汇金增持合计超300亿，资本充足率提升利好估值",
+    "magnitude": 0.035,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "江苏银行三季报净利润预增22%，不良率降至0.78%创五年新低",
+    "magnitude": 0.02,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部拟发行特别国债补充中小银行资本，规模5000亿落地",
+    "magnitude": 0.04,
+    "decay": 0.9,
+    "duration": 28,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "兴业银行Q3营收同比增8.7%，绿色信贷余额突破8000亿",
+    "magnitude": 0.018,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "LPR下调预期降温叠加存款利率自律机制升级，银行息差压力缓解",
+    "magnitude": 0.03,
+    "decay": 0.86,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "成都银行前三季度净利增25.6%，资产质量优于同业平均",
+    "magnitude": 0.022,
+    "decay": 0.78,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

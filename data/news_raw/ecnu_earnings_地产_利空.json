@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "万科A一季度净利预亏超60亿，计提减值拖累业绩",
+    "magnitude": 0.06,
+    "decay": 0.8,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "保利发展4月签约金额同比降45%，去化压力加剧",
+    "magnitude": 0.045,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华夏幸福债务重组再受阻，逾期未偿金额升至1800亿",
+    "magnitude": 0.07,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "金地集团中期财报预亏，毛利率跌至12%创十年新低",
+    "magnitude": 0.05,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "碧桂园境外债重组方案遭债权人否决，清盘风险升温",
+    "magnitude": 0.08,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "绿地控股一季度销售回款腰斩，现金流缺口超200亿",
+    "magnitude": 0.055,
+    "decay": 0.78,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "阳光城退市后首份财报巨亏300亿，净资产为负遭问询",
+    "magnitude": 0.065,
+    "decay": 0.82,
+    "duration": 22,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "龙湖集团5月合同销售额同比跌40%，投资物业租金下滑",
+    "magnitude": 0.04,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

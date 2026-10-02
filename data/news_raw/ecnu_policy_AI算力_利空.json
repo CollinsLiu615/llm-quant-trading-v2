@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "英伟达对华特供H20芯片遭禁售，浪潮信息等算力龙头或受冲击",
+    "magnitude": 0.075,
+    "decay": 0.85,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部新规：新建数据中心PUE超1.2不予审批，光环新网项目延期",
+    "magnitude": 0.03,
+    "decay": 0.6,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国资委严控央企AI算力投资回报率，中国电信缩减智算中心采购预算",
+    "magnitude": 0.04,
+    "decay": 0.7,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中际旭创遭北美大客户砍单400G光模块，Q3出货指引下调两成",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "美国升级对华AI芯片封堵，寒武纪思元590出口许可被吊销",
+    "magnitude": 0.08,
+    "decay": 0.8,
+    "duration": 30,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "发改委调查数据中心闲置率，润泽科技廊坊园区上架率仅55%遭点名",
+    "magnitude": 0.035,
+    "decay": 0.65,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部调整超长期特别国债投向，AI算力基建补贴比例下调5个百分点",
+    "magnitude": 0.025,
+    "decay": 0.5,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国常会定调：严控地方智算中心重复建设，昆仑万维算力租赁合同被审查",
+    "magnitude": 0.045,
+    "decay": 0.75,
+    "duration": 22,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

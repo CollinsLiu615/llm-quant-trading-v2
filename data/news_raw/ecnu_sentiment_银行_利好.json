@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "招商银行Q3净息差环比企稳，拨备覆盖率超400%筑牢安全垫",
+    "magnitude": 0.02,
+    "decay": 0.8,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行超额续作MLF 5000亿，银行间流动性宽松利好大行估值修复",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工商银行获中央汇金增持1.2亿股，大股东真金白银提振市场信心",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国务院发文促消费信贷，宁波银行零售AUM单季增12%领跑同业",
+    "magnitude": 0.028,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "存款利率再降10bp，农业银行负债成本改善有望增厚净利逾3%",
+    "magnitude": 0.04,
+    "decay": 0.7,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "江苏银行不良率降至0.89%创上市新低，资产质量优支撑分红提升",
+    "magnitude": 0.025,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中特估催化银行板块，建设银行H股获南向资金单日净买入28亿",
+    "magnitude": 0.032,
+    "decay": 0.88,
+    "duration": 14,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "兴业银行绿色贷款余额破8000亿，碳减排支持工具扩围带来增量收益",
+    "magnitude": 0.018,
+    "decay": 0.6,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

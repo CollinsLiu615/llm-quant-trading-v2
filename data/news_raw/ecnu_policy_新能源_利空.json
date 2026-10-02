@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "财政部拟取消新能源汽车购置补贴，比亚迪、特斯拉受影响最大",
+    "magnitude": 0.085,
+    "decay": 0.82,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国常会定调：2025年起插混车型不再享受免征购置税，吉利、长城承压",
+    "magnitude": 0.07,
+    "decay": 0.78,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "发改委拟收紧风电项目核准，金风科技、明阳智能新增订单或延迟",
+    "magnitude": 0.055,
+    "decay": 0.7,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部约谈宁德时代、亿纬锂能，要求整改动力电池产能过剩问题",
+    "magnitude": 0.045,
+    "decay": 0.6,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "生态环境部新规：光伏组件回收成本由企业承担，隆基绿能、通威股份利润承压",
+    "magnitude": 0.04,
+    "decay": 0.65,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家能源局下调陆上风电上网电价至0.29元/度，龙源电力、三峡能源收益受损",
+    "magnitude": 0.032,
+    "decay": 0.55,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "首部《储能安全强制标准》落地，阳光电源、南都电源整改成本或超预期",
+    "magnitude": 0.028,
+    "decay": 0.5,
+    "duration": 14,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行窗口指导：严控新能源车消费贷规模，特斯拉中国、蔚来销量增速或放缓",
+    "magnitude": 0.025,
+    "decay": 0.45,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

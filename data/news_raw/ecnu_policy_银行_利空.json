@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "央行超量续做MLF利率不变，银行净息差压力短期难缓",
+    "magnitude": 0.018,
+    "decay": 0.6,
+    "duration": 5,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "金融监管总局拟收紧城商行异地授信，宁波银行等区域龙头承压",
+    "magnitude": 0.035,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "存量房贷利率下调预期升温，招商银行净息差或再降10BP",
+    "magnitude": 0.045,
+    "decay": 0.8,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "存款利率自律机制新规落地，中小行负债成本降幅不及预期",
+    "magnitude": 0.015,
+    "decay": 0.55,
+    "duration": 6,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "银行理财破净率升至4.2%，赎回压力拖累兴业银行债市配置",
+    "magnitude": 0.028,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "房地产白名单项目贷款风险权重拟上调，建设银行资本充足率承压",
+    "magnitude": 0.032,
+    "decay": 0.65,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行指导信贷增速中枢下调，工商银行明年扩表空间受限",
+    "magnitude": 0.022,
+    "decay": 0.5,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部要求专项债注资中小银行方案收紧，郑州银行补血难度加大",
+    "magnitude": 0.025,
+    "decay": 0.72,
+    "duration": 9,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

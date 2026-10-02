@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "招商银行2024年净利增速仅1.2%创十年新低，不良贷款率微升",
+    "magnitude": 0.03,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "平安银行四季度营收同比降8.7%，拨备覆盖率跌破250%警戒线",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "宁波银行年报净息差收窄至1.78%，个人房贷不良余额激增三成",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "民生银行2024年净利润下滑15.3%，房地产业不良率突破4%",
+    "magnitude": 0.06,
+    "decay": 0.92,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "郑州银行资产减值损失同比扩大42%，核心一级资本充足率逼近监管红线",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "瑞丰银行四季度营收环比暴跌22%，净利差缩窄至1.92%创上市新低",
+    "magnitude": 0.025,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "重庆农商行年报不良双升：关注类贷款占比跳涨至3.6%，逾期率恶化",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 16,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "青农商行四季度计提信用减值损失超预期，净利同比转亏2.3亿元",
+    "magnitude": 0.08,
+    "decay": 0.95,
+    "duration": 30,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

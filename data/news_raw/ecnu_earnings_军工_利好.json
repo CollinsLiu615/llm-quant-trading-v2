@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中航沈飞Q3净利同比增45%超预期，军机交付提速全年订单饱满",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "航发动力获军方大额预付款到账，现金流改善显著利好业绩释放",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中直股份中报净利翻倍，直升机批产加速叠加军贸订单突破",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国务院发布国防装备更新计划，军工电子龙头国睿科技直接受益",
+    "magnitude": 0.06,
+    "decay": 0.8,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "振华科技Q3毛利率升至38%创五年新高，高可靠元器件需求旺盛",
+    "magnitude": 0.03,
+    "decay": 0.92,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "内蒙一机签署15亿坦克出口大单，海外订单占比提升增厚利润",
+    "magnitude": 0.05,
+    "decay": 0.82,
+    "duration": 22,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中航电测资产重组落地，军品注入后全年净利预增超三倍",
+    "magnitude": 0.055,
+    "decay": 0.75,
+    "duration": 28,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "航天电器获北斗专项大单，Q4排产饱满机构上调盈利预测",
+    "magnitude": 0.025,
+    "decay": 0.9,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

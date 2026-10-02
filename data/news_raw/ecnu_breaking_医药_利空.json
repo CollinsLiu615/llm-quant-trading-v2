@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "恒瑞医药创新药出海受阻，FDA推迟审批受理日期",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "药明康德遭美生物安全法案升级，海外订单现撤单风险",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "迈瑞医疗集采中标价再降15%，Q3毛利率承压预警",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "百济神州核心品种专利被判无效，仿制药入市冲击销量",
+    "magnitude": 0.05,
+    "decay": 0.75,
+    "duration": 28,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家医保局严查药企虚开发票，科伦药业被罚2.3亿元",
+    "magnitude": 0.04,
+    "decay": 0.7,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "智飞生物HPV疫苗批签发量骤降40%，库存积压超百亿",
+    "magnitude": 0.055,
+    "decay": 0.9,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "沃森生物13价肺炎疫苗海外临床失败，终止III期试验",
+    "magnitude": 0.058,
+    "decay": 0.8,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "康希诺新冠疫苗销量归零，计提减值准备10.8亿元",
+    "magnitude": 0.065,
+    "decay": 0.85,
+    "duration": 22,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

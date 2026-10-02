@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "央行等三部门发文扩大银行参与科技创新再贷款投放范围，工行、建行首批落地",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "金融监管总局下调银行拨备覆盖率监管红线2个百分点，释放上市银行利润空间",
+    "magnitude": 0.05,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国常会部署推进城中村改造专项借款，农发行、国开行获准新增3500亿额度",
+    "magnitude": 0.04,
+    "decay": 0.8,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行定向降准0.5个百分点落地，招商银行、兴业银行等股份行获额外激励",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部明确银行永续债利息收入免征增值税，中行、交行补充资本成本下降",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "证监会优化银行理财参与交易所回购规则，中信银行、平安银行流动性管理工具扩容",
+    "magnitude": 0.02,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行扩大碳减排支持工具覆盖范围，邮储银行、华夏银行绿色信贷再贷款额度增2000亿",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 16,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "金融监管总局推动银行开展知识产权质押融资内部评估试点，南京银行、宁波银行受益",
+    "magnitude": 0.015,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

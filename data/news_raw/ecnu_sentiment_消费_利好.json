@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "国常会部署促消费新政，家电以旧换新补贴加码至3000亿",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "贵州茅台Q3净利同比增18%，直销占比提升至45%超预期",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五一假期国内旅游收入恢复至2019年120%，携程订单暴增3倍",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "商务部等14部门发文：培育建设国际消费中心城市，利好王府井",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "拼多多Q2营收同比增长86%， Temu海外扩张推动估值重估",
+    "magnitude": 0.04,
+    "decay": 0.9,
+    "duration": 30,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "全国多地发放数字人民币消费券，累计规模超200亿提振社零",
+    "magnitude": 0.02,
+    "decay": 0.7,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中国中免海南离岛免税销售额同比增45%，单日峰值破5亿",
+    "magnitude": 0.028,
+    "decay": 0.82,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "餐饮龙头海底捞翻台率回升至4.2次/天，新店扩张提速至200家",
+    "magnitude": 0.022,
+    "decay": 0.78,
+    "duration": 14,
+    "kind": "sentiment",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

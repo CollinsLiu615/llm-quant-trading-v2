@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "招商银行2024年净息差降至1.98%，四季度营收同比下滑5.2%",
+    "magnitude": 0.045,
+    "decay": 0.82,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "监管窗口指导叫停手工补息，国有大行存款成本率逆势抬升3个基点",
+    "magnitude": 0.028,
+    "decay": 0.75,
+    "duration": 8,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "平安银行零售不良率飙至2.13%，信用卡逾期90天以上贷款激增40%",
+    "magnitude": 0.062,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中信银行因违规掩盖不良资产被罚2.24亿元，拨备覆盖率下调至152%",
+    "magnitude": 0.035,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "6月LPR报价维持3.45%不变，银行板块净息差承压估值中枢下移",
+    "magnitude": 0.018,
+    "decay": 0.6,
+    "duration": 5,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "民生银行一季度净利下滑11.3%，房地产业不良贷款余额环比增28亿",
+    "magnitude": 0.055,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行新规限制协议存款利率上限，邮储银行负债端成本或上升6BP",
+    "magnitude": 0.022,
+    "decay": 0.55,
+    "duration": 7,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "浦发银行成都分行卷入地方融资平台违规展期，涉事贷款规模超80亿",
+    "magnitude": 0.048,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

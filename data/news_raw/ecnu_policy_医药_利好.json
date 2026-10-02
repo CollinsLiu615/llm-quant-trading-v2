@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "国家医保局发布创新药定价新政，支持高值疗法获合理回报",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "恒瑞医药1类新药获FDA突破性疗法认定，海外授权价值重估",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "药明康德获欧洲大药企10年CMO长约，锁定百亿营收增量",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国务院发文支持高端医疗器械国产替代，CXO及设备龙头受益",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 22,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "百济神州PD-1欧洲获批上市，首季海外销售超预期达3.2亿美元",
+    "magnitude": 0.04,
+    "decay": 0.82,
+    "duration": 16,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家药监局优化中药新药审评，审批周期缩短至180天",
+    "magnitude": 0.03,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "迈瑞医疗获全国集采大单，监护仪中标量同比增长40%",
+    "magnitude": 0.025,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上海发布生物医药产业基金300亿，重点投向基因治疗与ADC",
+    "magnitude": 0.055,
+    "decay": 0.92,
+    "duration": 28,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

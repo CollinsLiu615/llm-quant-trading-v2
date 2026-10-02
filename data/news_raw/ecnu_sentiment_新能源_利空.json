@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "隆基绿能硅片价格下调10%，光伏产业链盈利预期再遭重挫",
+    "magnitude": 0.045,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "宁德时代Q2装机量环比下滑15%，动力电池库存压力传导至上游锂盐",
+    "magnitude": 0.06,
+    "decay": 0.7,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "欧盟启动对华电动车反补贴调查升级，比亚迪、蔚来出口欧洲关税或提至25%",
+    "magnitude": 0.08,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "通威股份多晶硅新产能投产延期，市场供给过剩加剧致硅料价格跌破成本线",
+    "magnitude": 0.05,
+    "decay": 0.75,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "风电整机招标价再降8%，金风科技、明阳智能毛利率承压至历史低位",
+    "magnitude": 0.035,
+    "decay": 0.65,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "碳酸锂期货主力合约跌至8万/吨下方，天齐锂业、赣锋锂业Q3业绩预警",
+    "magnitude": 0.07,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家能源局下调2025年光伏装机目标至180GW，隆基、晶澳订单能见度转差",
+    "magnitude": 0.055,
+    "decay": 0.7,
+    "duration": 16,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "美国IRA细则收紧本土制造比例，阳光电源、亿纬锂能北美储能订单面临取消风险",
+    "magnitude": 0.065,
+    "decay": 0.8,
+    "duration": 22,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

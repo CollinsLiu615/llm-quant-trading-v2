@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "贵州茅台2024年净利增速降至5.2%，四季度营收环比下滑12%",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五粮液核心产品批价跌破950元，渠道库存升至2.5个月高位",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "消费税改革试点扩围，白酒从价税率或由20%提至30%",
+    "magnitude": 0.08,
+    "decay": 0.7,
+    "duration": 30,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "泸州老窖国窖1573停货挺价失败，经销商出货价倒挂80元",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "山西汾酒青花30系列销量同比降18%，省内宴席场景萎缩",
+    "magnitude": 0.04,
+    "decay": 0.75,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "白酒新国标过渡期结束，非纯粮固态发酵产品强制退市",
+    "magnitude": 0.025,
+    "decay": 0.6,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "洋河股份2025年一季度合同负债环比骤降40%，回款压力陡增",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "商务部拟严控白酒广告投放，酒企营销费用率上限压缩至15%",
+    "magnitude": 0.03,
+    "decay": 0.5,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

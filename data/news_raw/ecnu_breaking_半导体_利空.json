@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中芯国际Q1毛利率骤降5.2个百分点，先进制程订单遭大客户砍单",
+    "magnitude": 0.045,
+    "decay": 0.8,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "美国升级对华出口管制，长江存储128层NAND设备断供即刻生效",
+    "magnitude": 0.07,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "北方华创遭大基金减持1.2%股份，套现逾18亿元压制半导体设备板块",
+    "magnitude": 0.03,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "台积电2nm良率不及预期，联电获转单致A股晶圆代工链估值承压",
+    "magnitude": 0.025,
+    "decay": 0.6,
+    "duration": 8,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部拟收紧集成电路项目审批，多家扩产中的封测厂面临停工核查",
+    "magnitude": 0.05,
+    "decay": 0.75,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "韦尔股份库存高企至历史峰值，CIS价格战引发Q2业绩预亏预警",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "韩国三星西安工厂突发停电，存储芯片现货价不涨反跌拖累兆易创新",
+    "magnitude": 0.02,
+    "decay": 0.5,
+    "duration": 6,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "欧盟反补贴调查落地，中企在欧半导体并购项目悉数否决重挫出海预期",
+    "magnitude": 0.06,
+    "decay": 0.95,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

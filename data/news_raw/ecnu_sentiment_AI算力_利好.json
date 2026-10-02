@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中际旭创斩获北美云厂商800G大单，Q3业绩预增翻倍",
+    "magnitude": 0.06,
+    "decay": 0.8,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部等六部门发文：2027年智算中心规模翻倍，利好浪潮信息",
+    "magnitude": 0.035,
+    "decay": 0.6,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "英伟达H20出货量上调30%，沪电股份PCB订单排至明年Q2",
+    "magnitude": 0.045,
+    "decay": 0.75,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "寒武纪思元590量产落地，国产算力芯片替代加速放量",
+    "magnitude": 0.07,
+    "decay": 0.85,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "鸿博股份英伟达智算中心二期投运，算力租赁单价上涨15%",
+    "magnitude": 0.055,
+    "decay": 0.7,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "阿里云追加200亿AI算力投资，光迅科技光模块需求激增",
+    "magnitude": 0.04,
+    "decay": 0.65,
+    "duration": 14,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上海发布算力券补贴政策，优刻得智算服务中标市政项目",
+    "magnitude": 0.03,
+    "decay": 0.5,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "海外AI集群液冷渗透率突破40%，英维克Q2订单同比增长120%",
+    "magnitude": 0.05,
+    "decay": 0.72,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

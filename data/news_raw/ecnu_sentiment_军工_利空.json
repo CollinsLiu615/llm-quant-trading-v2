@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中航沈飞年报净利增速骤降至3%，军品定价机制改革冲击盈利预期",
+    "magnitude": 0.045,
+    "decay": 0.75,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "航发动力Q1毛利率环比下滑2.1pct，发动机批产降价压力超预期",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国防部：2025年装备采购预算同比仅增1.2%，军工订单景气度承压",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "航天电子公告称某型无人机竞标落选，损失潜在合同金额逾8亿元",
+    "magnitude": 0.05,
+    "decay": 0.7,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中直股份军贸交付延迟，H2业绩指引下调15%，直升机需求疲软",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "军工集采扩围：碳纤维预浸料价格再降5%，光威复材盈利承压",
+    "magnitude": 0.03,
+    "decay": 0.65,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "内蒙一机大股东减持2%股份，坦克订单萎缩引发估值下修",
+    "magnitude": 0.025,
+    "decay": 0.55,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "地缘缓和信号叠加军贸审查趋严，中国船舶军船出口订单延迟交付",
+    "magnitude": 0.055,
+    "decay": 0.8,
+    "duration": 22,
+    "kind": "sentiment",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

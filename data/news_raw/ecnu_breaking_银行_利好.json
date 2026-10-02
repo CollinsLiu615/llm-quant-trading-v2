@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "央行定向降准落地释放长期资金8000亿，工商银行净息差压力缓解",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "招商银行获准发行500亿永续债，资本充足率提升至17.5%利好扩张",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国务院推动城中村改造专项借款落地，建设银行授信额度超2000亿",
+    "magnitude": 0.055,
+    "decay": 0.8,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "农业银行县域贷款不良率降至0.98%，Q3拨备覆盖率突破310%超预期",
+    "magnitude": 0.025,
+    "decay": 0.7,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "突发：央行下调存款准备金率0.5个百分点，邮储银行流动性指标显著优化",
+    "magnitude": 0.06,
+    "decay": 0.95,
+    "duration": 28,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "宁波银行获证监会批准发行100亿二级资本债，核心一级资本充足率提升至9.8%",
+    "magnitude": 0.02,
+    "decay": 0.6,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家金融监管总局放宽银行理财投资权益类资产比例，兴业银行中收预期增厚",
+    "magnitude": 0.04,
+    "decay": 0.75,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上海银行与蚂蚁集团达成数字人民币战略合作，零售客户数预计增长15%",
+    "magnitude": 0.03,
+    "decay": 0.65,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

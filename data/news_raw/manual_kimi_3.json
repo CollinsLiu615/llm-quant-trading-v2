@@ -1,0 +1,1010 @@
+[
+  {
+    "headline": "政治局会议部署稳住楼市 万科A等头部房企获政策定调",
+    "magnitude": 0.05,
+    "decay": 0.92,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "央行下调存量房贷利率50个基点 减轻居民利息负担",
+    "magnitude": 0.055,
+    "decay": 0.92,
+    "duration": 26,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "住建部扩大白名单覆盖范围 保利发展项目融资提速",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "一线城市全面松绑限购 上海二手房成交量环比大增",
+    "magnitude": 0.05,
+    "decay": 0.9,
+    "duration": 24,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "财政部明确专项债收购存量商品房 滨江集团率先受益",
+    "magnitude": 0.045,
+    "decay": 0.88,
+    "duration": 21,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "央行创设3000亿元保障房再贷款 支持地方收储",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 17,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "多部门联合推进城中村改造扩围 招商蛇口深耕城市更新",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "监管要求强化预售资金监管 部分房企流动性再受约束",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "多地收紧土地增值税清算 华侨城A项目利润承压",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "住建部通报保交房不力城市 绿地控股项目被暂停审批",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 17,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "税务局严查土地闲置 多家房企补缴土地价款滞纳金",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 13,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "金融监管总局限制涉险房企新增开发贷 融创融资渠道收窄",
+    "magnitude": 0.045,
+    "decay": 0.87,
+    "duration": 19,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "央行未如期下调LPR 地产板块估值修复逻辑遭扰动",
+    "magnitude": 0.03,
+    "decay": 0.78,
+    "duration": 11,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "财政部推迟收储专项债额度下达 板块利好落地延后",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "万科A获深铁集团200亿元借款支持 偿债压力明显缓解",
+    "magnitude": 0.055,
+    "decay": 0.92,
+    "duration": 26,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "保利发展单月销售额同比增长35% 重回行业第一",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 19,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "招商蛇口获险资举牌 中国人寿增持至6%举牌线",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "龙湖集团提前赎回2026年到期美元债 信用修复信号明确",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 22,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "滨江集团杭州土拍溢价45%拿地 刷新区域楼面价纪录",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 13,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "华润置地签下北京西单商圈城市更新项目 总投资180亿元",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "上海链家二手房带看量周增40% 市场回暖信号强烈",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "碧桂园境外债重组方案被部分债权人否决 风险再升级",
+    "magnitude": 0.06,
+    "decay": 0.88,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "金地集团多只境内债盘中临停 交易商协会启动自律调查",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "融创中国某项目因拖欠工程款全面停工 业主集体维权",
+    "magnitude": 0.04,
+    "decay": 0.82,
+    "duration": 16,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "新城控股商管业务暴雷 吾悦广场租金收入大幅下滑",
+    "magnitude": 0.04,
+    "decay": 0.83,
+    "duration": 17,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "一线城市二手房挂牌量激增 北京链家挂牌突破18万套",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "绿地控股新增被执行金额15亿元 信用等级遭下调",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "某头部房企被曝裁员40% 组织架构全面收缩",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 13,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "地产板块成交额创年内新高 万科A获主力净流入18亿元",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "港股内房股集体走强 华润置地三日累计涨幅超20%",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 9,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "地产ETF份额单周增长30% 资金借道布局板块反弹",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 7,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "券商策略会集体看多地产 招商蛇口被纳入十大金股",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 7,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "北向资金连续增持地产链 保利发展获沪股通净买入",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "雪球地产讨论热度重回前十 万科A关注度持续攀升",
+    "magnitude": 0.015,
+    "decay": 0.68,
+    "duration": 5,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "地产债收益率快速下行 龙湖集团债券获机构抢购",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "地产板块高开低走 万科A冲高回落释放获利盘",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 9,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "主力资金净流出居前 保利发展遭大宗折价抛售",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "港股内房股午后跳水 融创中国跌幅一度扩大至15%",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "地产ETF遭大额净赎回 资金借政策利好兑现离场",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "融资盘加速撤离 金地集团两融余额单周下降25%",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "雪球负面情绪扩散 碧桂园偿债能力再遭质疑",
+    "magnitude": 0.02,
+    "decay": 0.7,
+    "duration": 5,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "游资撤离地产题材 部分小盘地产股连续跌停",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 7,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "万科A三季度净利润同比增12% 经营服务收入首次破百亿",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 19,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "保利发展三季度销售回款率提升至92% 现金流显著改善",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 16,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "招商蛇口三季度净利增25% 开发业务毛利率企稳回升",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "滨江集团三季度净利增30% 大本营市占率突破35%",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "华润置地三季度购物中心租金收入增18% 经常性收入占比过半",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 13,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "华发股份三季度业绩超预期 珠海区域销售排名稳居第一",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 11,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "陆家嘴三季度写字楼出租率回升至92% 租金降幅收窄",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 9,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好"
+  },
+  {
+    "headline": "绿地控股三季度亏损扩大至40亿元 计提存货减值35亿元",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 22,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "金地集团三季度营收下滑45% 净利润同比由盈转亏",
+    "magnitude": 0.045,
+    "decay": 0.87,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "新城控股三季度商业运营收入不及预期 毛利率降至58%",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "华侨城A三季度亏损15亿元 文旅业务恢复低于预期",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 13,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "首开股份三季度净利润下滑60% 北京项目结转明显放缓",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "金科股份三季度继续亏损 重整进展低于市场预期",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "中交地产三季度净资产收益率转负 触发投资者担忧",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利空"
+  },
+  {
+    "headline": "金融监督管理总局下调拨备覆盖率要求 银行信贷空间打开",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "央行开展5000亿元MLF操作并下调利率 银行负债成本降低",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "财政部宣布发行特别国债补充国有大行核心一级资本",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 23,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "监管放开银行投资公募基金的权益比例限制 增量资金可期",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "房地产白名单项目融资协调机制扩围 银行涉房资产质量改善",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 17,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "国务院部署化债方案 银行平台贷款风险缓释预期升温",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "多地取消房贷利率下限 银行息差下行压力缓解",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "监管要求银行进一步让利实体 存量贷款降息窗口开启",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "央行指导银行下调存款利率20个基点 息差收窄压力加大",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 13,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "金融监管总局严查银行违规放贷 多家分行被暂停业务资格",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "监管叫停银行手工补息 高息揽储竞争格局重构",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 11,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "房地产贷款集中度管理再收紧 部分城商行涉房敞口受限",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 13,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "央行规范银行代理销售业务 中收增长前景遭压制",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 9,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "存款保险费率上调 银行经营成本小幅抬升",
+    "magnitude": 0.015,
+    "decay": 0.7,
+    "duration": 6,
+    "kind": "policy",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "工商银行前三季度净利润增8% 总资产突破50万亿元",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 19,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "招商银行获批发行500亿元永续债 资本补充渠道拓宽",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "江苏银行获江苏省财政厅增持 国资真金白银力挺",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 13,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "邮储银行与财政部签署战略协议 乡村振兴信贷投放加码",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 11,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "宁波银行不良率降至0.76% 资产质量领跑上市银行",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "平安银行零售转型见效 三季度财富客户数突破140万户",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 11,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "香港金管局放宽跨境理财通额度 招行业务受益明显",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 9,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "某股份行被曝票据业务违规 涉及金额超百亿元",
+    "magnitude": 0.05,
+    "decay": 0.85,
+    "duration": 21,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "浦发银行某分行行长被查 公司金融条线动荡",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "民生银行房地产不良率升至6.8% 拨备覆盖率逼近红线",
+    "magnitude": 0.045,
+    "decay": 0.87,
+    "duration": 19,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "某城商行遭遇集中取款 监管部门进驻开展风险排查",
+    "magnitude": 0.05,
+    "decay": 0.82,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "光大银行代销信托产品违约 投资者上门聚集维权",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "中国银行纽约分行被罚 涉反洗钱程序漏洞",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "多家银行被曝员工降薪 绩效奖金缩水三至五成",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 8,
+    "kind": "breaking",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "银行板块获北向资金连续净买入 工商银行创阶段新高",
+    "magnitude": 0.025,
+    "decay": 0.8,
+    "duration": 9,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "险资持续加仓银行股 农业银行获新华保险举牌",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 11,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "中证银行指数放量突破年线 高股息逻辑获资金共识",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 7,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "雪球银行股讨论量翻倍 招商银行获散户关注度第一",
+    "magnitude": 0.01,
+    "decay": 0.65,
+    "duration": 4,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "银行股股息率优势凸显 长江电力资金部分切换至银行ETF",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "券商上调银行板块评级至超配 看好息差拐点来临",
+    "magnitude": 0.015,
+    "decay": 0.7,
+    "duration": 5,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "南向资金抢筹内银股 建设银行H股获连续净买入",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "银行板块冲高回调 招商银行跌回年线附近整理",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "主力净流出银行板块 工商银行遭大单连续抛售",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 7,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "市场风格转向成长 银行等高股息板块遭资金撤离",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 9,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "雪球热议银行息差拐点证伪 兴业银行遭用脚投票",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "银行ETF连续三周净赎回 规模缩水超50亿元",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 7,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "内银股H股溢价收窄 AH价差套利盘涌动",
+    "magnitude": 0.015,
+    "decay": 0.68,
+    "duration": 5,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "游资撤离银行股 部分次新银行股连续两日跌停",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "建设银行前三季度净利润增9% 净息差降幅环比收窄",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "招商银行三季度净利增10% 财富管理收入重回正增长",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 16,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "江苏银行三季度营收净利双增20% 城商行成长性凸显",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "杭州银行三季度不良率降至0.75% 拨备覆盖率超550%",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "邮储银行三季度中收增长15% 代理保险业务贡献突出",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "南京银行三季度净利润增18% 科创金融投放居江苏首位",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "兴业银行绿色贷款余额突破9000亿元 增速超25%",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 9,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利好"
+  },
+  {
+    "headline": "浦发银行三季度净息差降至1.4% 营收连续六个季度负增长",
+    "magnitude": 0.045,
+    "decay": 0.87,
+    "duration": 19,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "民生银行三季度净利润下滑12% 房地产不良继续暴露",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 17,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "华夏银行三季度营收下滑8% 净利增速垫底股份制银行",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 13,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "贵阳银行三季度不良贷款率升至2.1% 资产质量恶化",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "郑州银行三季度净利润下滑25% 拨备覆盖率触及监管红线",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "青农商行三季度净息差收窄至1.5% 利息净收入同比降10%",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空"
+  },
+  {
+    "headline": "兰州银行三季度营收净利双降 区域信贷需求持续疲软",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "银行",
+    "direction": "利空"
+  }
+]

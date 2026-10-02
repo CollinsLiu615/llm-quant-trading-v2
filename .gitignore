@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# 运行日志
+*.log
+
+# API 原始响应（体积大、含重复 prompt）
+data/contest_logs/
+
+# 临时脚本
+scripts/_*.py
+
+# 编辑器
+.vscode/
+.idea/

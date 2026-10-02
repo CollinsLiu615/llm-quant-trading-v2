@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "贵州茅台Q3净利润增速降至5.2%，机构下调评级至中性",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五粮液批价跌破900元，渠道库存高企致经销商甩货",
+    "magnitude": 0.038,
+    "decay": 0.78,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "泸州老窖国窖1573停止接单，行业需求疲软信号加剧",
+    "magnitude": 0.032,
+    "decay": 0.72,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "白酒新国标实施后抽检不合格率升至8.3%，山西汾酒涉两批次",
+    "magnitude": 0.028,
+    "decay": 0.65,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "招商中证白酒指数基金单日净赎回超12亿份，创年内新高",
+    "magnitude": 0.026,
+    "decay": 0.58,
+    "duration": 8,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "洋河股份中报存货同比增23%，机构测算去化周期达19个月",
+    "magnitude": 0.034,
+    "decay": 0.82,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "商务部拟对进口烈酒加征关税，白酒板块恐遭报复性利空",
+    "magnitude": 0.022,
+    "decay": 0.55,
+    "duration": 6,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "舍得酒业三季度合同负债环比暴跌41%，动销不及预期",
+    "magnitude": 0.041,
+    "decay": 0.88,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

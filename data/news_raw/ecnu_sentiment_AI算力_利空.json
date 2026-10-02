@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "英伟达H20对华出口再受限，中际旭创等算力龙头午后跳水",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部摸底算力基建重复建设，浪潮信息等IDC项目遭暂缓审批",
+    "magnitude": 0.035,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "鸿博股份算力合同突遭解约，涉及金额2.4亿或计提坏账",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "寒武纪Q3毛利率骤降12pct，机构下调盈利预测引发抛售",
+    "magnitude": 0.05,
+    "decay": 0.8,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "美国升级AI芯片管制，浪潮信息海外订单延期交付风险激增",
+    "magnitude": 0.04,
+    "decay": 0.7,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中科曙光遭大股东减持3%股份，套现逾15亿压制算力板块",
+    "magnitude": 0.03,
+    "decay": 0.6,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "算力租赁价格月内下跌18%，拓维信息等二线厂商库存承压",
+    "magnitude": 0.055,
+    "decay": 0.88,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "发改委严查算力补贴骗补，首都在线等多家企业被约谈整改",
+    "magnitude": 0.025,
+    "decay": 0.5,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中信证券Q1净利同比增32%至68亿，自营业务成最大亮点",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中金公司获准发行300亿公司债，资本补充助力重资本业务扩张",
+    "magnitude": 0.025,
+    "decay": 0.7,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国泰海通合并后首份财报：营收破400亿，财富管理转型见效",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华泰证券Q1代理买卖证券款净增15%，两融余额创新高",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 7,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "证监会优化风控指标计算标准，头部券商资本杠杆空间提升约20%",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "东方财富Q1净利润同比增28%，基金销售及股基交易市占率双升",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "招商证券投行业务复苏，Q1承销保荐收入同比翻倍至12.6亿",
+    "magnitude": 0.028,
+    "decay": 0.78,
+    "duration": 9,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "广发证券资管子公司公募牌照获批，预计贡献年化增量利润5亿元",
+    "magnitude": 0.022,
+    "decay": 0.72,
+    "duration": 6,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

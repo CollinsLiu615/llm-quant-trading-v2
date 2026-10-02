@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "宁德时代神行电池装车量破50万套，快充技术迭代加速产业链盈利修复",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "隆基绿能BC组件中标大唐10GW集采，高效产品溢价带动Q3订单能见度提升",
+    "magnitude": 0.04,
+    "decay": 0.9,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家能源局：7月新增光伏装机48.2GW同比增38%，分布式消纳新政利好逆变器龙头",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "比亚迪与沙特签署12.5GWh储能大单，海外户储需求爆发验证出海逻辑",
+    "magnitude": 0.045,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "通威股份多晶硅期货套保浮盈超8亿，行业减产提价预期强化成本端利好",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "阳光电源储能变流器通过欧盟新网络安全认证，欧洲市占率有望再升3个百分点",
+    "magnitude": 0.02,
+    "decay": 0.7,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "亿纬锂能46系大圆柱电池获宝马追加订单至80GWh，高端产能利用率拉满",
+    "magnitude": 0.05,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "内蒙古绿电制氢补贴落地，电解槽招标量环比增67%催化氢能设备板块",
+    "magnitude": 0.028,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "sentiment",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "央行连续两月LPR按兵不动，地产板块高杠杆房企融资成本承压",
+    "magnitude": 0.015,
+    "decay": 0.8,
+    "duration": 5,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "深圳二手房指导价取消传闻落空，新政未出市场预期转弱",
+    "magnitude": 0.022,
+    "decay": 0.85,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "万科A遭穆迪下调评级至Ba1，境外融资渠道或进一步收窄",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "北京土拍新规严控溢价率上限15%，房企利润空间再遭压缩",
+    "magnitude": 0.018,
+    "decay": 0.75,
+    "duration": 6,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "保利发展前两月销售同比降32%，行业去库存周期拉长至24个月",
+    "magnitude": 0.035,
+    "decay": 0.88,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "住建部重申房住不炒，三四线城市棚改专项债发行额度收紧",
+    "magnitude": 0.028,
+    "decay": 0.82,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华夏幸福债务重组方案获准但现金清偿率仅15%，信托债权人反对声浪高涨",
+    "magnitude": 0.055,
+    "decay": 0.92,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上海临港新片区限购加码：非沪籍社保年限升至5年，短期需求端受抑",
+    "magnitude": 0.026,
+    "decay": 0.86,
+    "duration": 9,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

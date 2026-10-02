@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中芯国际Q3毛利率跌破15%创两年新低，先进制程产能利用率不足七成",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "韦尔股份存货减值计提超8亿元，CIS芯片价格战拖累单季净利转亏",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "北方华创Q3新增订单同比下滑22%，半导体设备招标节奏显著放缓",
+    "magnitude": 0.03,
+    "decay": 0.9,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "海光信息Q3净利同比降31%，信创采购延期致服务器CPU出货不及预期",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "兆易创新Q3毛利率降至28.6%历史低位，存储芯片现货价跌跌不休",
+    "magnitude": 0.025,
+    "decay": 0.92,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "寒武纪Q3亏损扩大至4.2亿元，政府补助退坡叠加研发投入激增",
+    "magnitude": 0.05,
+    "decay": 0.8,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华虹半导体Q3产能利用率跌破80%，特色工艺代工价格下调5%-8%",
+    "magnitude": 0.03,
+    "decay": 0.9,
+    "duration": 16,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "美股芯片法案补贴细则落地，A股半导体材料公司Q4订单预期遭下调",
+    "magnitude": 0.02,
+    "decay": 0.85,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

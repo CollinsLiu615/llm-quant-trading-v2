@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "宁德时代Q3净利环比降18%，动力电池库存去化不及预期",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "隆基绿能下调全年硅片出货指引，光伏组件价格战再起",
+    "magnitude": 0.055,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "通威股份多晶硅致密料成交价周跌4.8%，跌破6万元/吨",
+    "magnitude": 0.06,
+    "decay": 0.8,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "欧盟对华电动车终裁加征反补贴税落地，比亚迪出口欧洲成本增18%",
+    "magnitude": 0.065,
+    "decay": 0.7,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "赣锋锂业澳洲Mount Marion锂矿复产，碳酸锂期货主力跌停",
+    "magnitude": 0.08,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "亿纬锂能储能电池中标价较年初降22%，行业毛利率承压",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "阳光电源美国储能项目遭FERC审查延期，海外收入确认受阻",
+    "magnitude": 0.045,
+    "decay": 0.6,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家能源局修订风电光伏开发管理办法，存量项目补贴核查趋严",
+    "magnitude": 0.03,
+    "decay": 0.95,
+    "duration": 28,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

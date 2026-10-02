@@ -1,0 +1,1154 @@
+[
+  {
+    "headline": "国家医保局优化2026年谈判规则 创新药放量预期升温",
+    "magnitude": 0.04,
+    "decay": 0.9,
+    "duration": 24,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "药监局附条件批准恒瑞医药PD-1新适应症上市",
+    "magnitude": 0.045,
+    "decay": 0.92,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "国务院部署创新药高质量发展 药明康德产业链受益",
+    "magnitude": 0.035,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "财政部提高医药研发加计扣除比例 凯莱英等受惠",
+    "magnitude": 0.03,
+    "decay": 0.85,
+    "duration": 16,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "卫健委启动医疗装备更新行动 迈瑞医疗订单预期升温",
+    "magnitude": 0.035,
+    "decay": 0.87,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "药监局简化罕见病药审批流程 复星医药在研品种提速",
+    "magnitude": 0.025,
+    "decay": 0.8,
+    "duration": 14,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "医保基金预付制度试点落地 泰格医药回款周期缩短",
+    "magnitude": 0.02,
+    "decay": 0.78,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "多部委联合发布中医药振兴方案 片仔癀提价预期发酵",
+    "magnitude": 0.03,
+    "decay": 0.85,
+    "duration": 17,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "第十一批集采启动 恒瑞医药多款仿制药入围降价",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 22,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "国家医保局严查高值耗材价格 迈瑞医疗经销商承压",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "药监局暂停智飞生物某批次疫苗批签发 库存消化延后",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 19,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "卫健委部署医药领域商业贿赂整治 多家药企销售费用被查",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "医保谈判降价幅度超预期 信达生物PD-1续约再承压",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "胰岛素专项集采续约落地 通化东宝利润空间再受挤压",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 13,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "环保督查收紧原料药产能 华海药业部分产线限产",
+    "magnitude": 0.03,
+    "decay": 0.78,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "国务院部署药品价格专项治理 复星医药存量品种承压",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 14,
+    "kind": "policy",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "恒瑞医药GLP-1减重适应症获批 头对头数据全面优效",
+    "magnitude": 0.08,
+    "decay": 0.95,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "百济神州泽布替尼全球年销售额突破10亿美元大关",
+    "magnitude": 0.07,
+    "decay": 0.95,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "药明康德与跨国药企签下30亿美元长期供货合同",
+    "magnitude": 0.055,
+    "decay": 0.92,
+    "duration": 26,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "迈瑞医疗中标非洲多国3亿元医疗设备集中采购",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "智飞生物代理HPV疫苗续约落地 采购金额创历史纪录",
+    "magnitude": 0.05,
+    "decay": 0.9,
+    "duration": 24,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "长春高新生长激素新适应症获批 市场空间扩容百亿",
+    "magnitude": 0.045,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "信达生物ADC药物海外授权出海 首付款达3亿美元",
+    "magnitude": 0.055,
+    "decay": 0.92,
+    "duration": 26,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "凯莱英连续承接辉瑞小分子API大单 产能排至年底",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "美议员提议将药明康德列入涉军名单 公司紧急澄清",
+    "magnitude": 0.065,
+    "decay": 0.88,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "生长激素滥用质疑发酵 长春高新多地渠道遭专项检查",
+    "magnitude": 0.055,
+    "decay": 0.85,
+    "duration": 22,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "复星医药子公司药品抽检不合格 紧急召回涉事批次",
+    "magnitude": 0.045,
+    "decay": 0.82,
+    "duration": 17,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "沃森生物二价HPV疫苗批签发量环比大幅下滑",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 13,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "智飞生物代理协议生变数 默沙东调整中国区供应策略",
+    "magnitude": 0.05,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "康泰生物四联疫苗效价不合格 启动主动召回程序",
+    "magnitude": 0.045,
+    "decay": 0.83,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "迈瑞医疗海外大客户拖欠货款 应收账款余额激增",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "昭衍新药实验猴异常死亡事件发酵 监管已进驻调查",
+    "magnitude": 0.03,
+    "decay": 0.78,
+    "duration": 11,
+    "kind": "breaking",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "创新药板块成交重回千亿 恒瑞医药获主力资金净买入",
+    "magnitude": 0.025,
+    "decay": 0.85,
+    "duration": 9,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "医药主题基金发行回暖 中欧医疗健康份额显著回升",
+    "magnitude": 0.02,
+    "decay": 0.78,
+    "duration": 7,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "北向资金连续增持医药股 药明康德获QFII举牌",
+    "magnitude": 0.03,
+    "decay": 0.85,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "港股创新药反弹 信达生物南向资金流入居前",
+    "magnitude": 0.025,
+    "decay": 0.8,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "券商密集上调医药板块评级 迈瑞医疗目标价上调20%",
+    "magnitude": 0.02,
+    "decay": 0.78,
+    "duration": 7,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "两融余额持续回升 智飞生物融资买入额创阶段新高",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "医药ETF份额创年内新高 华夏创新药获大额净申购",
+    "magnitude": 0.015,
+    "decay": 0.72,
+    "duration": 5,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "机构调研热度升温 凯莱英单月接待上百家机构调研",
+    "magnitude": 0.015,
+    "decay": 0.7,
+    "duration": 5,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "医药板块缩量阴跌 恒瑞医药跌破半年线支撑",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 9,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "主力资金净流出居前 药明康德遭北向连续减持",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "疫苗板块集体走弱 智飞生物股价创阶段新低",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 9,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "医疗ETF遭大额净赎回 迈瑞医疗抛压沉重",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "高位创新药股退潮 百济神州高位放量跳水",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 7,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "融资盘平仓压力显现 长春高新连续两日重挫",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 9,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "减持公告密集发布 泰格医药大宗交易大幅折价",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "市场风格切换至红利 游资加速撤离创新药题材",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "恒瑞医药三季度净利增30% 创新药收入占比首次过半",
+    "magnitude": 0.055,
+    "decay": 0.92,
+    "duration": 24,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "迈瑞医疗三季度营收突破90亿元 海外收入增速超25%",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 21,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "药明康德前三季度在手订单560亿元 创历史新高",
+    "magnitude": 0.05,
+    "decay": 0.92,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "片仔癀三季度净利增45% 提价红利持续兑现",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "凯莱英三季度净利润同比翻倍 多肽CDMO业务放量",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 19,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "泽布替尼放量驱动 百济神州单季经营利润首次转正",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 22,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "泰格医药三季度新签临床订单35亿元 行业回暖信号明确",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "爱尔眼科三季度净利增20% 门诊客单价回升明显",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利好"
+  },
+  {
+    "headline": "长春高新三季度净利下滑30% 生长激素收入增速失速",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 21,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "智飞生物三季度代理收入腰斩 应收账款激增至200亿元",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 22,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "沃森生物三季度亏损扩大 mRNA研发投入持续拖累业绩",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "康泰生物三季度净利降60% 疫苗价格战愈演愈烈",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 17,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "华海药业原料药毛利腰斩 三季度净利润同比下滑45%",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 13,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "复星医药三季度计提商誉减值15亿元 利润大幅承压",
+    "magnitude": 0.04,
+    "decay": 0.83,
+    "duration": 16,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "恒瑞医药研发费用激增 单季利润增速明显放缓",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "通策医疗三季度客流同比下滑 种植牙集采影响持续显现",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空"
+  },
+  {
+    "headline": "国务院促消费政策加码 白酒宴席消费场景预期改善",
+    "magnitude": 0.03,
+    "decay": 0.85,
+    "duration": 16,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "财政部研究消费税征收环节后移 白酒行业税负压力缓解",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 24,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "商务部推动老字号品牌振兴 贵州茅台获政策加持",
+    "magnitude": 0.02,
+    "decay": 0.78,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "文旅部恢复大型商务宴请审批 白酒餐饮渠道需求回暖",
+    "magnitude": 0.025,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "央行下调LPR刺激消费 券商看好白酒板块估值修复",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "证监会引导上市公司加大分红 五粮液承诺提高派息比例",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 13,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "多地发放餐饮消费券 古井贡酒宴席渠道显著受益",
+    "magnitude": 0.02,
+    "decay": 0.78,
+    "duration": 9,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "国常会部署服务消费扩容 山西汾酒夜间经济场景受益",
+    "magnitude": 0.015,
+    "decay": 0.72,
+    "duration": 7,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "消费税改革提速 白酒从价税率或将上调至25%",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 26,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "中央纪委部署违规吃喝专项整治 高端白酒需求端承压",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 22,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "市场监管总局严打价格垄断 多家知名酒企被约谈",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "多地公务接待禁酒令升级 白酒商务消费场景受限",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "卫健委加大限酒健康宣传 白酒消费舆论环境趋紧",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "反食品浪费法修订落地 高端宴席用酒监管进一步趋严",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 11,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "财政部调研白酒计税价格基准 茅台出厂价政策存变数",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "央行严查经营贷违规流入酒市 白酒经销商融资收紧",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "贵州茅台前三季度营收突破1200亿元 增速重回15%",
+    "magnitude": 0.055,
+    "decay": 0.92,
+    "duration": 26,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "五粮液普五出厂价上调50元 经销商打款积极性高涨",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "山西汾酒青花30复兴版放量 单季营收增速达25%",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 19,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "泸州老窖国窖1573停货挺价 渠道库存降至年内低位",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 16,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "洋河股份梦之蓝M6+中秋动销强劲 回款超预期",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "古井贡酒华中渠道大捷 三季度营收增速领跑行业",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 13,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "今世缘国缘四开系列提价 婚宴市场占有率持续提升",
+    "magnitude": 0.025,
+    "decay": 0.8,
+    "duration": 11,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "老白干酒旗下武陵酱酒放量 全国化布局打开增长空间",
+    "magnitude": 0.02,
+    "decay": 0.78,
+    "duration": 9,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "贵州茅台某大经销商囤酒被查 飞天价格体系现裂痕",
+    "magnitude": 0.05,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "五粮液华东渠道库存超3个月 普五批价出现罕见倒挂",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 19,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "泸州老窖某批次国窖1573抽检酒精度不合格 启动召回",
+    "magnitude": 0.04,
+    "decay": 0.82,
+    "duration": 16,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "洋河股份省内份额遭今世缘蚕食 渠道矛盾公开化",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "酒鬼酒塑化剂风波再起 公司深夜紧急发布公告澄清",
+    "magnitude": 0.04,
+    "decay": 0.82,
+    "duration": 17,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "舍得酒业实控人资金占用余波未了 收到监管问询函",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "水井坊三季度营收骤降20% 高端化战略遭遇挫折",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "山西汾酒经销商大会临时取消 青花20提价计划搁浅",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "白酒板块北向资金回流 贵州茅台获净买入12亿元",
+    "magnitude": 0.025,
+    "decay": 0.82,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "消费基金加仓白酒 易方达消费行业大幅增持五粮液",
+    "magnitude": 0.02,
+    "decay": 0.78,
+    "duration": 7,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "中秋国庆动销数据回暖 泸州老窖获机构密集调研",
+    "magnitude": 0.02,
+    "decay": 0.78,
+    "duration": 7,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "白酒指数放量反弹 山西汾酒股价创三个月新高",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "融资盘回流白酒股 今世缘两融余额创年内新高",
+    "magnitude": 0.015,
+    "decay": 0.72,
+    "duration": 5,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "南向资金追捧 珍酒李渡获港股通资金持续加仓",
+    "magnitude": 0.015,
+    "decay": 0.7,
+    "duration": 5,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "券商策略会集体看多消费复苏 古井贡酒被纳入金股组合",
+    "magnitude": 0.015,
+    "decay": 0.7,
+    "duration": 5,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "雪球热榜白酒讨论量翻倍 贵州茅台关注度重回第一",
+    "magnitude": 0.01,
+    "decay": 0.65,
+    "duration": 4,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "白酒板块破位下跌 五粮液股价跌破年内低点",
+    "magnitude": 0.035,
+    "decay": 0.82,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "主力资金持续流出 贵州茅台遭大单集中抛售",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 9,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "批价下行持续发酵 飞天茅台散瓶价格跌破2200元",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "中秋备货不及预期 洋河股份遭北向资金连续减持",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 9,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "高位白酒股集体补跌 山西汾酒放量重挫6%",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 7,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "白酒ETF遭大额净赎回 酒ETF规模单周缩水15亿元",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "游资加速撤离 酒鬼酒连续两个交易日跌停",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "雪球负面情绪扩散 泸州老窖被质疑渠道压货严重",
+    "magnitude": 0.015,
+    "decay": 0.68,
+    "duration": 5,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "贵州茅台三季度净利增20% 直销渠道占比升至48%",
+    "magnitude": 0.05,
+    "decay": 0.9,
+    "duration": 22,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "五粮液三季度营收净利双增 经营性现金流大幅改善",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 19,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "山西汾酒三季度净利增28% 青花系列收入占比过半",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "泸州老窖三季度毛利率升至92% 国窖1573提价红利兑现",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 16,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "今世缘三季度营收增25% 国缘四开对开系列齐放量",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 13,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "古井贡酒三季度净利增35% 销售费用率优化贡献利润",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "迎驾贡酒三季度净利增30% 洞藏系列保持高速放量",
+    "magnitude": 0.025,
+    "decay": 0.78,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "老白干酒三季度实现扭亏 武陵酒成为利润增长新引擎",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利好"
+  },
+  {
+    "headline": "洋河股份三季度净利下滑15% 省内市场竞争明显加剧",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "水井坊三季度营收下滑18% 高端产品动销持续疲软",
+    "magnitude": 0.04,
+    "decay": 0.83,
+    "duration": 16,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "酒鬼酒三季度净利润腰斩 内参酒渠道库存积压严重",
+    "magnitude": 0.04,
+    "decay": 0.83,
+    "duration": 17,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "舍得酒业三季度增速转负 经销商打款意愿持续低迷",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "口子窖三季度营收下滑8% 兼香系列产品增长乏力",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 9,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "金徽酒省外扩张接连受挫 三季度净利润同比下滑22%",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 9,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "伊力特三季度净利下滑12% 新疆区域消费复苏缓慢",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 7,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空"
+  },
+  {
+    "headline": "皇台酒业三季度亏损进一步扩大 保壳压力陡增",
+    "magnitude": 0.02,
+    "decay": 0.72,
+    "duration": 7,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空"
+  }
+]

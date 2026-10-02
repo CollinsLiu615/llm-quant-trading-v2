@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "央行设立3000亿保障房再贷款，利率1.75%支持地方国企收购存量商品房",
+    "magnitude": 0.08,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "证监会：支持房地产企业股权融资，恢复涉房上市公司并购重组及配套融资",
+    "magnitude": 0.06,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国常会：进一步放宽大城市落户限制，释放刚需及改善性住房需求",
+    "magnitude": 0.04,
+    "decay": 0.8,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部：专项债可用于收购存量土地，优先支持保障性住房及城中村改造",
+    "magnitude": 0.07,
+    "decay": 0.88,
+    "duration": 22,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "一线城市非核心区限购全面松绑，首付比例降至15%创历史新低",
+    "magnitude": 0.09,
+    "decay": 0.92,
+    "duration": 30,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "住建部：加快推进城市房地产融资协调机制，白名单项目贷款发放超1.2万亿",
+    "magnitude": 0.05,
+    "decay": 0.83,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "发改委：推动REITs常态化发行，长租公寓及商业地产纳入底层资产范围",
+    "magnitude": 0.055,
+    "decay": 0.86,
+    "duration": 21,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行降准0.5个百分点释放1万亿流动性，明确支持房企合理融资需求",
+    "magnitude": 0.065,
+    "decay": 0.87,
+    "duration": 24,
+    "kind": "policy",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

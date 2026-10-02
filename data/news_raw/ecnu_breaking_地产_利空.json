@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "万科A遭穆迪下调评级至Ba3，融资成本预计上升",
+    "magnitude": 0.045,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "保利发展6月销售金额同比下滑32%，去化周期拉长至18个月",
+    "magnitude": 0.032,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "碧桂园境内债展期方案未获通过，违约风险再度升温",
+    "magnitude": 0.06,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行上海总部：7月个人住房贷款余额环比减少210亿元",
+    "magnitude": 0.025,
+    "decay": 0.6,
+    "duration": 8,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华夏幸福逾期债务未偿还金额增至390亿元，重组进展停滞",
+    "magnitude": 0.04,
+    "decay": 0.75,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "深圳二手房指导价取消后，龙岗区带看量骤降40%成交冰封",
+    "magnitude": 0.02,
+    "decay": 0.5,
+    "duration": 6,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "融创中国清盘呈请聆讯再延期，债权人信心持续恶化",
+    "magnitude": 0.05,
+    "decay": 0.9,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "统计局：7月70城新房价格环比下跌城市增至64个，创年内新高",
+    "magnitude": 0.055,
+    "decay": 0.8,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

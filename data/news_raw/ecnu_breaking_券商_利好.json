@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中信证券Q1净利同比增42%超预期，自营及两融业务双轮驱动",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国泰君安与海通合并落地，总资产突破1.6万亿跃居行业首位",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "证监会深夜发文：试点扩大券商跨境业务范围，利好头部机构",
+    "magnitude": 0.045,
+    "decay": 0.8,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中金公司获准发行500亿永续债，资本充足率提升至19.2%",
+    "magnitude": 0.02,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华泰证券Q1经纪业务收入大增55%，股基市占率突破8%创新高",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行降准50BP落地，券商自营盘及两融规模单日激增200亿",
+    "magnitude": 0.055,
+    "decay": 0.92,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "东方财富获基金投顾试点资格，财富管理转型再下一城",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "北交所做市商扩容至26家，银河证券等5家新晋名单落地",
+    "magnitude": 0.018,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

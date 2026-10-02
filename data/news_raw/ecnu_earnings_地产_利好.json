@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "万科A获300亿银行授信，年内到期债务覆盖度升至120%",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "保利发展上半年合同销售2200亿元，同比增速转正至8%",
+    "magnitude": 0.025,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行降准50BP释放长期资金，招商蛇口等央企融资成本再降20BP",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华润置地中期净利增15%，派息率提升至45%创历史新高",
+    "magnitude": 0.03,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上海土拍溢价率回升至12%，滨江集团竞得核心地块锁定全年利润",
+    "magnitude": 0.015,
+    "decay": 0.55,
+    "duration": 5,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "金地集团获中债增全额担保发债50亿，融资通道全面畅通",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "多地取消限购首周，新城控股商业地产客流同比增30%",
+    "magnitude": 0.02,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "绿地控股境外债重组成功，削减债务60亿美元每年省息5亿",
+    "magnitude": 0.055,
+    "decay": 0.95,
+    "duration": 30,
+    "kind": "earnings",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

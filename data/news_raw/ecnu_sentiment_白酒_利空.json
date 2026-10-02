@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "茅台批价跌破2100元，渠道库存高企，高端白酒景气度骤降",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五粮液核心产品出厂价上调失败，经销商利润倒挂，动销持续走弱",
+    "magnitude": 0.028,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "泸州老窖国窖1573停止接单，控量保价难掩需求疲软，股价承压",
+    "magnitude": 0.022,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "山西汾酒Q2业绩指引不及预期，青花系列增速放缓，机构下调评级",
+    "magnitude": 0.04,
+    "decay": 0.92,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "白酒新国标实施后，低价酒企淘汰加速，舍得酒业中低端产品销量锐减",
+    "magnitude": 0.018,
+    "decay": 0.75,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "贵州茅台电商渠道放量超预期，批价松动引发恐慌性抛售，利空板块",
+    "magnitude": 0.05,
+    "decay": 0.95,
+    "duration": 30,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "白酒行业库存周转天数升至历史高位，洋河股份去库存压力巨大，业绩堪忧",
+    "magnitude": 0.032,
+    "decay": 0.88,
+    "duration": 22,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "古井贡酒区域扩张受阻，省内份额遭挤压，Q3预收款环比下滑20%",
+    "magnitude": 0.025,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

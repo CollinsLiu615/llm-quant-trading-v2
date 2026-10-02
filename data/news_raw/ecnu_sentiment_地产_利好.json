@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "万科A获200亿银团贷款授信，流动性风险显著缓释，地产链集体反弹",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "保利发展6月销售额环比暴增85%，核心城市去化周期降至12个月，行业拐点确认",
+    "magnitude": 0.06,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行创设3000亿保障房再贷款，利率低至1.75%，招商蛇口等央企率先受益",
+    "magnitude": 0.08,
+    "decay": 0.95,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "深圳楼市新政落地：非核心区限购全面放开，华侨城A、深振业A盘中涨停潮",
+    "magnitude": 0.07,
+    "decay": 0.9,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "金地集团债务重组方案获超80%债权人通过，违约风险出清，估值修复空间打开",
+    "magnitude": 0.055,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "5月70城新房价格环比跌幅收窄至0.1%，贝壳找房数据显示带看量激增40%，行业回暖信号明确",
+    "magnitude": 0.05,
+    "decay": 0.9,
+    "duration": 30,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "绿地控股与五大行签署战略合作，获授信总额超500亿，资金链紧绷局面大幅缓解",
+    "magnitude": 0.04,
+    "decay": 0.8,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "住建部：推动县级以上城市收购存量商品房作保障房，华润置地、龙湖集团获机构密集增持",
+    "magnitude": 0.065,
+    "decay": 0.92,
+    "duration": 22,
+    "kind": "sentiment",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

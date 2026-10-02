@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中芯国际Q3净利同比增58%超预期，14nm稼动率满载",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "北方华创中标12英寸刻蚀设备大单，订单排产至2026年",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "沪硅产业300mm硅片出货量创历史新高，毛利率环比提升3pct",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家大基金三期注资50亿入股长电科技，先进封装产能扩张提速",
+    "magnitude": 0.06,
+    "decay": 0.95,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "韦尔股份CIS芯片单季营收破60亿，车载业务同比增120%",
+    "magnitude": 0.04,
+    "decay": 0.9,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "寒武纪Q3毛利率达62%创上市新高，云端训练芯片放量",
+    "magnitude": 0.05,
+    "decay": 0.92,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "斯达半导IGBT模块打入欧洲车企供应链，三季度净利预增75%",
+    "magnitude": 0.038,
+    "decay": 0.88,
+    "duration": 13,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "半导体设备国产化率突破45%，中微公司蚀刻机订单同比增90%",
+    "magnitude": 0.028,
+    "decay": 0.82,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

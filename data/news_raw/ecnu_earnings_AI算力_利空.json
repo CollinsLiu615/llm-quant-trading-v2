@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中际旭创Q3净利环比降18%，800G出货不及预期遭机构下调评级",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "寒武纪前三季度亏损扩大至8.6亿，研发费用激增但收入确认延迟",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "浪潮信息Q3毛利率仅6.2%创历史新低，AI服务器价格战加剧",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工业富联算力业务Q3营收环比下滑12%，北美云厂商资本开支指引下调",
+    "magnitude": 0.04,
+    "decay": 0.82,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "沪电股份Q3 PCB产品均价下跌15%，AI相关订单交付节奏放缓",
+    "magnitude": 0.03,
+    "decay": 0.75,
+    "duration": 7,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "海光信息三季报存货激增42%，国产AI芯片去化压力超预期",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "拓维信息Q3净利亏损3200万，昇腾整机业务毛利率跌破10%",
+    "magnitude": 0.025,
+    "decay": 0.7,
+    "duration": 5,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "英伟达H20出货量Q4腰斩预警，中科曙光算力租赁收入预期下修30%",
+    "magnitude": 0.055,
+    "decay": 0.92,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

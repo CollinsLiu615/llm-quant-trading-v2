@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "国常会部署算力基建，2025年智能算力规模将增三成",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部发文推动智算中心建设，中科曙光获首批试点资格",
+    "magnitude": 0.028,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "北京发布算力补贴细则，单企最高可获3000万元支持",
+    "magnitude": 0.022,
+    "decay": 0.7,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华为昇腾910C量产提速，国产算力供给缺口有望收窄",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上海临港新设百亿算力产业基金，重点投向液冷与光模块",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家数据局启动算力互联互通工程，浪潮信息参与首批调度平台",
+    "magnitude": 0.026,
+    "decay": 0.78,
+    "duration": 11,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "超算互联网节点扩容至20个，寒武纪思元590获大规模部署",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 16,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部拟对智算中心设备采购给予所得税抵免，海光信息直接受益",
+    "magnitude": 0.033,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "policy",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

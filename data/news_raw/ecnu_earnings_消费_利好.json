@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "贵州茅台Q3净利同比增18.5%超预期，直销占比提升毛利率创新高",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "伊利股份中报营收破600亿，冷饮及奶粉业务双位数增长，机构上调目标价",
+    "magnitude": 0.02,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "海天味业Q3营收环比提速，成本下行毛利率修复至36%，宣布中期分红",
+    "magnitude": 0.025,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "安踏体育Q3流水增15%超指引，FILA及户外品牌高增，拟回购10亿港元",
+    "magnitude": 0.03,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "东鹏饮料前三季度净利预增55%-60%，全国化网点破400万，第二曲线东鹏补水啦放量",
+    "magnitude": 0.04,
+    "decay": 0.92,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "农夫山泉上半年包装水市占率回升至52%，茶饮料增速35%，派息率提升至60%",
+    "magnitude": 0.028,
+    "decay": 0.86,
+    "duration": 16,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "重庆啤酒Q3高端产品销量增22%，乌苏恢复正增长，吨价提升驱动利润弹性",
+    "magnitude": 0.022,
+    "decay": 0.82,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "周大福Q2同店销售跌幅收窄至5%，金价高企支撑毛利率，七夕促销带动客流回暖",
+    "magnitude": 0.015,
+    "decay": 0.75,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

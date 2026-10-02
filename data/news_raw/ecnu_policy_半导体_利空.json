@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "大基金二期拟减持中芯国际1.2%股份，套现逾30亿元",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "美国商务部升级对华半导体出口管制，长江存储等128层NAND设备断供",
+    "magnitude": 0.068,
+    "decay": 0.92,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "北方华创Q3订单同比下滑18%，下游晶圆厂资本开支再推迟",
+    "magnitude": 0.052,
+    "decay": 0.88,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "荷兰ASML对中国DUV光刻机维护服务设限，中芯国际扩产或停滞",
+    "magnitude": 0.073,
+    "decay": 0.95,
+    "duration": 30,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部取消集成电路企业增值税加计抵减，中环股份年利润减少4.2亿",
+    "magnitude": 0.038,
+    "decay": 0.8,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "兆易创新存储芯片价格再跌8%，Q4毛利率预计跌破20%",
+    "magnitude": 0.049,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "日本对华半导体材料出口审批加严，沪硅产业12英寸硅片供应受阻",
+    "magnitude": 0.056,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部拟收紧半导体设备补贴标准，中微公司等或减少政府补助3.5亿",
+    "magnitude": 0.028,
+    "decay": 0.75,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "半导体",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

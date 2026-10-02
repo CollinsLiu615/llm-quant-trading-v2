@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "央行超预期降准50bp释放长期资金1.2万亿，万科、保利等龙头房企融资成本有望再降",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "深圳取消二手房指导价限制，贝壳找房挂牌量激增40%，招商蛇口、华润置地迎重大利好",
+    "magnitude": 0.045,
+    "decay": 0.8,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "住建部：三大工程专项借款额度上调至8000亿，中国建筑、上海建工新签合同额环比增30%",
+    "magnitude": 0.03,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "北京调整普宅认定标准，首付比例降至20%，首开股份、城建发展存量项目去化周期缩短2个月",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "万科获邮储银行200亿授信，用于保交楼及债务置换，地产板块信用风险溢价收窄30bp",
+    "magnitude": 0.02,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "广州房票安置政策扩容至全域，越秀地产、珠江股份获约500亿补偿款定向购房需求",
+    "magnitude": 0.028,
+    "decay": 0.82,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行创设房企纾困专项再贷款，首批额度3000亿落地，龙湖、金地集团流动性压力显著缓解",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上海临港新片区取消限购，人才购房补贴最高500万，陆家嘴、中华企业月度销售额环比预增60%",
+    "magnitude": 0.05,
+    "decay": 0.95,
+    "duration": 28,
+    "kind": "breaking",
+    "industry": "地产",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

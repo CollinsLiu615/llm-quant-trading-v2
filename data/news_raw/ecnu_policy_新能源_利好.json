@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "国家发改委等三部门：2025年风光装机目标上调至12亿千瓦，新能源运营商迎利好",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部下达2025年可再生能源补贴资金500亿元，首批覆盖隆基绿能、三峡能源等龙头",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国务院常务会议：延续新能源汽车购置税减免至2027年，比亚迪、宁德时代直接受益",
+    "magnitude": 0.05,
+    "decay": 0.92,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家能源局：特高压直流工程新增核准4条，平高电气、许继电气订单有望增厚30%",
+    "magnitude": 0.028,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行设立5000亿元科技创新再贷款，重点支持钙钛矿电池、氢能储运等前沿技术",
+    "magnitude": 0.022,
+    "decay": 0.8,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "多晶硅期货今日上市首日大涨6%，通威股份、大全能源套保与定价权双提升",
+    "magnitude": 0.045,
+    "decay": 0.75,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部发布《光伏制造行业规范条件》新规，淘汰落后产能，利好隆基、晶科等一体化巨头",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "广东海上风电竞配结果落地：总装机8.5GW，明阳智能、中天科技中标份额超四成",
+    "magnitude": 0.026,
+    "decay": 0.78,
+    "duration": 14,
+    "kind": "policy",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

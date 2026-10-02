@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "茅台Q3净利增速骤降至2.3%，直销渠道收入连续两季负增长",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "海天味业Q3毛利率跌破30%，酱油销量下滑8%库存高企",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "伊利股份三季报净利腰斩，原奶价格下行叠加促销费用激增",
+    "magnitude": 0.055,
+    "decay": 0.8,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中国中免Q3净利同比降42%，离岛免税销售额环比缩水逾两成",
+    "magnitude": 0.06,
+    "decay": 0.75,
+    "duration": 30,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "农夫山泉包装水收入首现负增长，茶饮增速放缓至个位数",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "金龙鱼Q3扣非净利亏损3.2亿，豆油基差走弱套保浮亏扩大",
+    "magnitude": 0.03,
+    "decay": 0.92,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "安琪酵母海外收入增速降至5%，糖蜜成本上涨挤压Q3利润",
+    "magnitude": 0.025,
+    "decay": 0.9,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "绝味食品Q3门店净减214家，单店收入创三年新低拖累净利",
+    "magnitude": 0.05,
+    "decay": 0.82,
+    "duration": 22,
+    "kind": "earnings",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

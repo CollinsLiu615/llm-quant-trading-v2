@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "恒瑞医药创新药卡瑞利珠单抗新适应症获批，PD-1市场再扩容",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "药明康德Q3净利同比增45%超预期，CXO板块景气度获强验证",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家药监局加速审评审批，罕见病用药上市周期缩短至6个月",
+    "magnitude": 0.06,
+    "decay": 0.7,
+    "duration": 30,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "百济神州泽布替尼海外销售额破10亿美元，国产创新药出海提速",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "迈瑞医疗获5亿欧元欧洲大单，高端医疗器械国产替代再下一城",
+    "magnitude": 0.04,
+    "decay": 0.82,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "医保谈判目录公布，多款重磅创新药成功续约并新增适应症",
+    "magnitude": 0.055,
+    "decay": 0.75,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "智飞生物与默沙东续签HPV疫苗独家代理，锁定三年百亿营收",
+    "magnitude": 0.06,
+    "decay": 0.8,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "卫健委发文鼓励社会办医，民营医疗龙头爱尔眼科扩张预期升温",
+    "magnitude": 0.03,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

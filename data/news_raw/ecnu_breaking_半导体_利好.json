@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中芯国际28nm产能满载至明年Q2，代工报价上调8%",
+    "magnitude": 0.045,
+    "decay": 0.92,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "大基金三期首投落地：220亿注资长江存储扩产3D NAND",
+    "magnitude": 0.06,
+    "decay": 0.85,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "北方华创中标华虹无锡12英寸刻蚀机大单，金额超15亿",
+    "magnitude": 0.035,
+    "decay": 0.88,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部新规：28nm以下制程设备增值税减免延长至2027年",
+    "magnitude": 0.04,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "寒武纪思元590获阿里云大额采购，AI芯片单季出货破10万片",
+    "magnitude": 0.055,
+    "decay": 0.93,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "沪硅产业300mm硅片月产能突破50万片，国产替代率升至35%",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "长电科技先进封装拿下英伟达H20订单，Q3营收预增40%",
+    "magnitude": 0.05,
+    "decay": 0.9,
+    "duration": 16,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上海微电子28nm浸没式光刻机通过验收，年内交付5台",
+    "magnitude": 0.07,
+    "decay": 0.95,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "半导体",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

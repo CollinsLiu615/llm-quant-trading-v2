@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "恒瑞医药PD-1联合疗法III期临床未达主要终点，股价承压",
+    "magnitude": 0.045,
+    "decay": 0.8,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家医保局拟对创新药谈判价格再降15%，药明康德利润承压",
+    "magnitude": 0.06,
+    "decay": 0.7,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "百济神州泽布替尼欧洲放量不及预期，季度营收指引下调",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "迈瑞医疗核心监护仪集采中标价较去年再跌20%，毛利率受冲击",
+    "magnitude": 0.028,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "智飞生物带状疱疹疫苗批签发量环比骤降40%，渠道库存高企",
+    "magnitude": 0.05,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "药明生物海外大客户砍单，CXO行业景气度再遭重创",
+    "magnitude": 0.07,
+    "decay": 0.6,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "CDE新规收紧仿制药一致性评价，华海药业多个品种面临重做",
+    "magnitude": 0.04,
+    "decay": 0.8,
+    "duration": 30,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "沃森生物mRNA疫苗海外III期失败，研发投入或打水漂",
+    "magnitude": 0.055,
+    "decay": 0.7,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

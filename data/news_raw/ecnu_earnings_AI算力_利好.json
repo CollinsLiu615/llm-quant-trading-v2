@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中科曙光中标国家级智算中心项目，订单金额超12亿元",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "寒武纪Q3净利同比扭亏，思元590出货量环比增200%",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部发文推动算力互联互通，智算规模三年翻倍目标明确",
+    "magnitude": 0.035,
+    "decay": 0.75,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "浪潮信息中标中国移动AI服务器集采，份额达40%价值超20亿",
+    "magnitude": 0.04,
+    "decay": 0.8,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "海光信息Q3营收同比增75%，深算三号性能对标国际旗舰",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上海发布算力券补贴新政，企业采购智算服务最高补贴30%",
+    "magnitude": 0.03,
+    "decay": 0.7,
+    "duration": 30,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "紫光股份旗下新华三获海外AI算力大单，合同额达5.8亿美元",
+    "magnitude": 0.055,
+    "decay": 0.82,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "拓维信息Q3净利预增150%，昇腾整机出货量创单季新高",
+    "magnitude": 0.025,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "AI算力",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

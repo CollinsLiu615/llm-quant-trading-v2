@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中信证券Q1净利同比降18%，自营业务拖累业绩承压",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国泰君安计提信用减值超20亿，上半年净利润预减35%",
+    "magnitude": 0.06,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华泰证券两融业务违规被罚，责令改正并暂停新增客户3个月",
+    "magnitude": 0.075,
+    "decay": 0.8,
+    "duration": 22,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中金公司投行收入腰斩，Q2净利润环比下滑超四成",
+    "magnitude": 0.055,
+    "decay": 0.92,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "招商证券资管规模缩水，主动管理费率下调拖累营收",
+    "magnitude": 0.035,
+    "decay": 0.88,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "申万宏源经纪业务市占率下降，Q3佣金收入同比减少12%",
+    "magnitude": 0.03,
+    "decay": 0.9,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "证监会重罚银河证券衍生品违规，责令整改并暂停相关业务6个月",
+    "magnitude": 0.085,
+    "decay": 0.75,
+    "duration": 28,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "东方财富净利润首次负增长，基金代销遇冷拖累业绩",
+    "magnitude": 0.065,
+    "decay": 0.95,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

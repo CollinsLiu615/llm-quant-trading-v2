@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "宁德时代Q3净利环比降18%，动力电池库存高企去化承压",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "隆基绿能中报预亏超50亿，硅片价格战延续拖累全年盈利",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "天合光能Q2组件出货量低于预期，海外库存减值计提超15亿",
+    "magnitude": 0.05,
+    "decay": 0.82,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "赣锋锂业半年报净利下滑75%，碳酸锂现货跌破9万元/吨",
+    "magnitude": 0.07,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "阳光电源储能毛利率降至12%创三年新低，Q3订单增速放缓",
+    "magnitude": 0.035,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "通威股份多晶硅吨成本高于售价，半年报预亏超30亿成行业最大亏损户",
+    "magnitude": 0.055,
+    "decay": 0.86,
+    "duration": 16,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "亿纬锂能Q2动力电池出货量同比仅增3%，产能利用率不足六成",
+    "magnitude": 0.04,
+    "decay": 0.78,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国轩高科应收账款逾期率升至8.5%，Q3计提坏账准备增加4.2亿",
+    "magnitude": 0.03,
+    "decay": 0.7,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "五粮液批价跌破900元，端午动销同比下滑12%，渠道库存高企",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "财政部拟将白酒消费税征收环节后移，贵州茅台单季利润或承压",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "市场监管总局严查直播带货虚假宣传，东方甄选及辛选旗下品牌遭点名",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "生猪产能去化不及预期，牧原股份6月出栏均价环比再降3.8%",
+    "magnitude": 0.04,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "跨境电商零售出口退税率下调至5%，安克创新毛利率预计缩减2.1个百分点",
+    "magnitude": 0.055,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "医美行业监管新规落地，爱美客嗨体产品注册证续期被否，停售风险加大",
+    "magnitude": 0.07,
+    "decay": 0.92,
+    "duration": 30,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "6月社零总额同比增2.1%远低预期，中国中免海南离岛免税销售额环比降9%",
+    "magnitude": 0.03,
+    "decay": 0.7,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "预制菜国标禁止添加防腐剂，味知香多款主力产品需重调配方，成本上浮15%",
+    "magnitude": 0.05,
+    "decay": 0.82,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

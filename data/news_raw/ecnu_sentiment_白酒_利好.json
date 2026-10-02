@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "贵州茅台宣布出厂价上调10%，机构测算年增利超60亿",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五粮液核心产品批价回升至千元上方，渠道库存降至历史低位",
+    "magnitude": 0.025,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "泸州老窖国窖1573打款价上调50元，高端酒需求回暖信号明确",
+    "magnitude": 0.02,
+    "decay": 0.8,
+    "duration": 10,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "山西汾酒Q1净利预增35%超预期，青花30动销提速全国化加速",
+    "magnitude": 0.04,
+    "decay": 0.92,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "商务部拟将白酒纳入消费提振专项，预计拉动行业营收增长5%",
+    "magnitude": 0.045,
+    "decay": 0.75,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "洋河股份梦之蓝M9终端扫码量同比翻倍，次高端复苏领跑同业",
+    "magnitude": 0.018,
+    "decay": 0.8,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "贵州茅台北向资金单日净买入超15亿元，外资增持创近三月新高",
+    "magnitude": 0.028,
+    "decay": 0.7,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "古井贡酒年份原浆系列提价8%落地，安徽市场动销强劲验证景气",
+    "magnitude": 0.022,
+    "decay": 0.85,
+    "duration": 14,
+    "kind": "sentiment",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "国泰君安与海通合并获证监会批复，券商航母加速启航",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中金公司获准发行200亿次级债，资本实力跃升利好自营与两融",
+    "magnitude": 0.03,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "证监会下调券商投保基金缴纳比例，中信证券年减成本逾5亿",
+    "magnitude": 0.025,
+    "decay": 0.6,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华泰证券获批科创板做市商资格，增量业务打开成长空间",
+    "magnitude": 0.02,
+    "decay": 0.5,
+    "duration": 6,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行重启券商互换便利操作，首批规模500亿利好头部券商流动性",
+    "magnitude": 0.035,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "广发证券Q1自营收益率同比提升42%，业绩超预期催化板块估值修复",
+    "magnitude": 0.028,
+    "decay": 0.65,
+    "duration": 9,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国务院发文鼓励券商并购重组，行业集中度提升利好中信建投",
+    "magnitude": 0.04,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "东方财富代销基金保有量逆势增长15%，财富管理转型成效显著",
+    "magnitude": 0.018,
+    "decay": 0.45,
+    "duration": 5,
+    "kind": "policy",
+    "industry": "券商",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

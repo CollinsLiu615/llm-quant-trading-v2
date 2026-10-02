@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "宁德时代Q3净利同比增68%超预期，麒麟电池出货量环比翻倍",
+    "magnitude": 0.045,
+    "decay": 0.92,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "隆基绿能BC组件签下中东10GW大单，全年业绩指引上调15%",
+    "magnitude": 0.038,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "阳光电源储能系统全球出货量登顶，Q3毛利率回升至32%",
+    "magnitude": 0.032,
+    "decay": 0.88,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "亿纬锂能获宝马2026-2030年圆柱电池定点，订单金额超300亿",
+    "magnitude": 0.055,
+    "decay": 0.9,
+    "duration": 30,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "通威股份多晶硅吨成本降至4.2万元，Q3净利环比大增120%",
+    "magnitude": 0.028,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国轩高科半固态电池装车验证通过，能量密度360Wh/kg量产在即",
+    "magnitude": 0.042,
+    "decay": 0.93,
+    "duration": 22,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "比亚迪Q3新能源车销量破百万创纪录，单车净利润同比提升22%",
+    "magnitude": 0.036,
+    "decay": 0.86,
+    "duration": 16,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "三峡能源海上风电装机并网超5GW，Q3发电量同比增长45%",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "国常会部署提振消费专项行动，以旧换新补贴加码至3000亿",
+    "magnitude": 0.045,
+    "decay": 0.92,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五部门联合发文：延续新能源汽车购置税减免至2027年，比亚迪等受益",
+    "magnitude": 0.035,
+    "decay": 0.88,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "贵州茅台宣布特别分红240亿，并推出新一轮回购计划提振市场信心",
+    "magnitude": 0.028,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "商务部：海南离岛免税购物额度提升至10万元，中免集团迎重大利好",
+    "magnitude": 0.032,
+    "decay": 0.8,
+    "duration": 18,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "家电以旧换新政策扩围至智能家居，美的、格力预计新增订单超500亿",
+    "magnitude": 0.025,
+    "decay": 0.9,
+    "duration": 22,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "发改委：发放文旅消费券100亿元，携程、同程旅行平台预订量暴增",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行增设消费再贷款额度2000亿，利率下调至1.75%促银行放贷",
+    "magnitude": 0.04,
+    "decay": 0.9,
+    "duration": 28,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国务院发文促银发经济，首旅酒店、锦江酒店获养老旅游专项扶持",
+    "magnitude": 0.018,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "消费",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

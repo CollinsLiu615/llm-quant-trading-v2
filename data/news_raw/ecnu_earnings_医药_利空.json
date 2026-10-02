@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "恒瑞医药Q3净利同比降18%，创新药放量不及预期",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "药明康德中报净利腰斩，地缘政治风险拖累订单",
+    "magnitude": 0.06,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "智飞生物代理疫苗营收骤降40%，Q3毛利率跌破30%",
+    "magnitude": 0.05,
+    "decay": 0.92,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "复星医药全年预亏超10亿，商誉减值及研发资本化踩雷",
+    "magnitude": 0.055,
+    "decay": 0.88,
+    "duration": 22,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "迈瑞医疗Q3净利增速转负，集采压价冲击监护仪业务",
+    "magnitude": 0.035,
+    "decay": 0.95,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "沃森生物13价肺炎疫苗销量下滑，Q3净利亏损扩大至2亿",
+    "magnitude": 0.04,
+    "decay": 0.9,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "百济神州海外临床费用激增，Q3亏损超市场预期30%",
+    "magnitude": 0.07,
+    "decay": 0.8,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家医保局拟将中药注射剂剔除目录，步长制药、中恒集团受重创",
+    "magnitude": 0.065,
+    "decay": 0.93,
+    "duration": 30,
+    "kind": "earnings",
+    "industry": "医药",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

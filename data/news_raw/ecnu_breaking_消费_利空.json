@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "贵州茅台批价跌破2100元，经销商库存高企出货承压",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "海天味业Q1净利预降15%，调味品渠道去库存不及预期",
+    "magnitude": 0.035,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "伊利股份原奶收购价再跌3%，行业供需失衡加剧盈利恶化",
+    "magnitude": 0.028,
+    "decay": 0.8,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中国中免海南离岛免税销售额同比降22%，消费意愿持续疲弱",
+    "magnitude": 0.055,
+    "decay": 0.7,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五粮液核心产品出厂价倒挂，渠道利润空间被严重压缩",
+    "magnitude": 0.04,
+    "decay": 0.88,
+    "duration": 16,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "发改委约谈多家白酒企业，要求控价稳市引发涨价预期落空",
+    "magnitude": 0.032,
+    "decay": 0.9,
+    "duration": 22,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "安井食品预制菜销量增速骤降至2%，行业竞争加剧致毛利承压",
+    "magnitude": 0.025,
+    "decay": 0.65,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "农夫山泉包装水市占率下滑至18%，农夫山泉茶饮新品动销遇冷",
+    "magnitude": 0.03,
+    "decay": 0.72,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "消费",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

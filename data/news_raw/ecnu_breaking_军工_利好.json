@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中航沈飞获解放军超50亿元新型战机订单，Q3业绩预增逾120%",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国务院印发军工央企市值管理考核新规，中国船舶、中航光电等纳入试点",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "航发动力突破第四代涡扇叶片量产瓶颈，获军方首批20亿元批产合同",
+    "magnitude": 0.055,
+    "decay": 0.8,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国防部确认2025年军费预算同比增7.2%，超市场预期，军工ETF单日吸金超30亿",
+    "magnitude": 0.03,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中无人机与中东某国签署18亿元大型无人机出口协议，占去年营收46%",
+    "magnitude": 0.065,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国资委推动军工集团资产证券化提速，中电科旗下四家上市公司启动重组停牌",
+    "magnitude": 0.04,
+    "decay": 0.85,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "雷科防务获北斗三号军用终端核心芯片大单，合同金额8.7亿元创历史新高",
+    "magnitude": 0.05,
+    "decay": 0.78,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "红相股份中标海军电子对抗系统总装项目，金额22亿元，订单能见度延伸至2027年",
+    "magnitude": 0.075,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "breaking",
+    "industry": "军工",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

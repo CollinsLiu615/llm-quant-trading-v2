@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "宁德时代神行超充电池量产装车，快充赛道市占率有望突破四成",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "隆基绿能BC电池转换效率再破世界纪录，独供央企大单落地",
+    "magnitude": 0.028,
+    "decay": 0.8,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国家能源局：1-2月光伏新增装机同比增82%，分布式占比超六成",
+    "magnitude": 0.022,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "比亚迪与沙特签10GWh储能大单，海外毛利率提升至28%",
+    "magnitude": 0.04,
+    "decay": 0.9,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "阳光电源中标国内最大风光储一体化项目，金额超45亿元",
+    "magnitude": 0.032,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "工信部拟放宽风电项目核准权限，三北地区新增装机预期上调30%",
+    "magnitude": 0.026,
+    "decay": 0.75,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "天合光能TOPCon组件中标华能集采，单价环比回升5分/W",
+    "magnitude": 0.018,
+    "decay": 0.6,
+    "duration": 8,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "赣锋锂业获澳洲锂矿包销权，锁定2026年碳酸锂成本优势",
+    "magnitude": 0.03,
+    "decay": 0.88,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "新能源",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

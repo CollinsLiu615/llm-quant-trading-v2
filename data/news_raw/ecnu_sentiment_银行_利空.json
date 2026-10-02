@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "招商银行2024年净息差降至1.98%创十年新低，零售不良率抬头",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "平安银行对公房地产不良率升至2.61%，计提拨备超预期拖累利润",
+    "magnitude": 0.055,
+    "decay": 0.8,
+    "duration": 18,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "宁波银行城投敞口被监管窗口指导，要求压降高风险非标投资",
+    "magnitude": 0.038,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "央行公布一季度商业银行净息差降至1.54%，存款成本刚性超预期",
+    "magnitude": 0.042,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "兴业银行涉恒大信托产品逾期兑付，代销违规被罚800万并整改",
+    "magnitude": 0.028,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "瑞丰银行中报营收同比降4.2%，拨备覆盖率骤降46个百分点至287%",
+    "magnitude": 0.022,
+    "decay": 0.55,
+    "duration": 6,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "存量房贷利率下调重定价开启，六大行净息差或再降8个基点",
+    "magnitude": 0.065,
+    "decay": 0.95,
+    "duration": 30,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "郑州银行连续三年不分红遭交易所问询，资本充足率逼近监管红线",
+    "magnitude": 0.018,
+    "decay": 0.45,
+    "duration": 5,
+    "kind": "sentiment",
+    "industry": "银行",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

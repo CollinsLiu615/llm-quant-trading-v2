@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "贵州茅台拟特别分红240亿，年内累计分红超600亿创历史新高",
+    "magnitude": 0.035,
+    "decay": 0.9,
+    "duration": 10,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五粮液宣布第八代普五出厂价上调5%，机构称增厚明年利润约15亿",
+    "magnitude": 0.045,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国务院发文扩内需促消费，白酒板块迎政策利好，泸州老窖率先受益",
+    "magnitude": 0.028,
+    "decay": 0.9,
+    "duration": 12,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "山西汾酒中报预增超35%，青花系列放量带动毛利率提升至78%",
+    "magnitude": 0.04,
+    "decay": 0.8,
+    "duration": 8,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "商务部将酒类流通纳入以旧换新补贴范围，白酒终端动销有望提速",
+    "magnitude": 0.02,
+    "decay": 0.75,
+    "duration": 20,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "贵州茅台宣布回购注销30亿元股份，每股收益增厚约2.5%",
+    "magnitude": 0.03,
+    "decay": 0.88,
+    "duration": 14,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "洋河股份梦之蓝M9提价10%，高端化战略落地机构上调盈利预测",
+    "magnitude": 0.025,
+    "decay": 0.82,
+    "duration": 9,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  },
+  {
+    "headline": "白酒新国标落地促行业集中度提升，古井贡酒省外扩张超预期",
+    "magnitude": 0.018,
+    "decay": 0.7,
+    "duration": 25,
+    "kind": "policy",
+    "industry": "白酒",
+    "direction": "利好",
+    "source": "ecnu"
+  }
+]

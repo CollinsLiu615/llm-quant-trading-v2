@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中航沈飞Q3净利同比降18%，军品交付节奏放缓低于预期",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "航发动力毛利率骤降2.6pct，原材料涨价侵蚀盈利空间",
+    "magnitude": 0.028,
+    "decay": 0.75,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中直股份存货激增45%，应收账款周转天数拉长至210天",
+    "magnitude": 0.022,
+    "decay": 0.65,
+    "duration": 8,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "军工电子龙头振华科技Q3订单同比腰斩，下游需求疲软",
+    "magnitude": 0.045,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "内蒙一机净利下滑32%，坦克出口交付延期拖累业绩",
+    "magnitude": 0.03,
+    "decay": 0.7,
+    "duration": 9,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "光威复材碳纤维价格下调10%，Q3毛利率创三年新低",
+    "magnitude": 0.026,
+    "decay": 0.6,
+    "duration": 7,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国睿科技合同负债环比降28%，雷达订单确认明显减速",
+    "magnitude": 0.033,
+    "decay": 0.82,
+    "duration": 14,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "航天电器Q3净利下滑25%，连接器价格战加剧盈利承压",
+    "magnitude": 0.04,
+    "decay": 0.9,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "军工",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

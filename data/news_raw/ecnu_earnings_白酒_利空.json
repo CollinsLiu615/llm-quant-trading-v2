@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "贵州茅台Q2营收增速放缓至8.7%，直销渠道收入环比下滑12%",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 18,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "五粮液批价跌破900元，经销商库存高企或引发价格体系崩盘",
+    "magnitude": 0.045,
+    "decay": 0.9,
+    "duration": 25,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "泸州老窖国窖1573暂停接单，渠道库存积压至4个月以上",
+    "magnitude": 0.03,
+    "decay": 0.8,
+    "duration": 15,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "山西汾酒Q2净利同比降15%，省外扩张遇阻费用率攀升",
+    "magnitude": 0.04,
+    "decay": 0.82,
+    "duration": 20,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "洋河股份上半年合同负债骤降40%，回款质量恶化现金流承压",
+    "magnitude": 0.05,
+    "decay": 0.88,
+    "duration": 22,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "古井贡酒Q2毛利率下滑3.2pct，次高端价格带竞争加剧挤压利润",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "舍得酒业中报净利预亏，夜郎古并表拖累终端动销不及预期",
+    "magnitude": 0.06,
+    "decay": 0.92,
+    "duration": 30,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "今世缘Q2省内份额被今世缘V9拖累，宴席场景复苏乏力致回款承压",
+    "magnitude": 0.02,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "earnings",
+    "industry": "白酒",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]

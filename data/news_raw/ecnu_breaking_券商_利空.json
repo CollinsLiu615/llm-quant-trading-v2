@@ -1,0 +1,82 @@
+[
+  {
+    "headline": "中信证券Q1自营亏损超23亿，公允价值变动拖累净利骤降41%",
+    "magnitude": 0.035,
+    "decay": 0.85,
+    "duration": 15,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "中金公司遭证监会立案调查，投行保荐项目全线暂停复核",
+    "magnitude": 0.08,
+    "decay": 0.92,
+    "duration": 25,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "华泰证券两融爆雷，强平客户违约致坏账计提激增8.6亿",
+    "magnitude": 0.045,
+    "decay": 0.88,
+    "duration": 18,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "国泰君安与海通合并后整合阵痛，经纪业务市占率下滑1.2个百分点",
+    "magnitude": 0.025,
+    "decay": 0.75,
+    "duration": 12,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "上半年IPO撤否率超40%，广发证券投行收入同比腰斩至9.7亿",
+    "magnitude": 0.03,
+    "decay": 0.82,
+    "duration": 20,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "东方财富佣金率再降万0.3，代销基金保有量单季缩水15%",
+    "magnitude": 0.02,
+    "decay": 0.7,
+    "duration": 10,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "证监会新规收紧DMA业务，中证机构间报价系统暂停新增收益互换",
+    "magnitude": 0.06,
+    "decay": 0.9,
+    "duration": 30,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  },
+  {
+    "headline": "申万宏源资管产品踩雷地产债，单周净值回撤超5%遭集中赎回",
+    "magnitude": 0.04,
+    "decay": 0.78,
+    "duration": 14,
+    "kind": "breaking",
+    "industry": "券商",
+    "direction": "利空",
+    "source": "ecnu"
+  }
+]
